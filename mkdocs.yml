@@ -1,1 +1,7 @@
 site_name: DCSC Wiki
+site_url: https://dcs-c.github.io
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: black
