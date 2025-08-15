@@ -15,12 +15,13 @@
     * [스폰이 안 됩니다! — 슬롯 잡는 법](/서버/슬롯)
     * [크레딧 시스템](/서버/크레딧)
 * 기체 운용 매뉴얼
-    * [F-16: Viper](/매뉴얼/f16)
-    * [F-18: Hornet](/매뉴얼/f18)
-    * [F-14: Tomcat](/매뉴얼/f14)
+    * [F-16C: Viper](/매뉴얼/f16)
+    * [F-18C: Hornet](/매뉴얼/f18)
+    * [F-14 A/B: Tomcat](/매뉴얼/f14)
+    * [F-4E: Phantom II](/매뉴얼/f4)
     * [AJS-37: Viggen](/매뉴얼/ajs37)
     * [AH-64D: Apache](/매뉴얼/ah64)
-    * [UH-1: Huey](/매뉴얼/uh1)
+    * [UH-1H: Huey](/매뉴얼/uh1)
 * PvP 가이드
     * [BVR](/가이드/bvr)
     * [WVR](/가이드/wvr)
