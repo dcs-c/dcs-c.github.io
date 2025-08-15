@@ -8,6 +8,7 @@
     * [F-16: Viper](/매뉴얼/f16)
     * [F-18: Hornet](/매뉴얼/f18)
     * [F-14: Tomcat](/매뉴얼/f14)
+    * [AJS-37: Viggen](/매뉴얼/ajs37)
     * [UH-1: Huey](/매뉴얼/uh1)
 * PvP 가이드
     * [BVR](/가이드/bvr)
