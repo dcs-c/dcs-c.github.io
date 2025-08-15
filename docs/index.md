@@ -2,8 +2,8 @@
 ![](https://raw.githubusercontent.com/dcs-c/dcs-c.github.io/refs/heads/main/docs/images/fsg.png)
 
 <p><center><b>DCS Channel 위키</b>에 방문하신 것을 환영합니다.</center></p>
-<p></p><center><b>DCS Channel</b>은 디스코드를 거점으로 DCS 및 비행 시뮬레이션 전반을 다루는 <b>매우</b> 자유로운 분위기의 커뮤니티입니다.</center></p>
-<p></p><center>이 위키에는 DCS Channel이 운영하고 있는 24시간 <b>다이나믹 캠페인 서버의 이용 요령</b>과 뉴비부터 숙련자까지 누구나 유용히 참고할 수 있는 <b>기체 운용 매뉴얼</b>, BVR/WVR 상황에서 적을 빠르고 확실하게 제압하기 위한 <b>PvP 가이드</b>를 정리하고 있습니다.</center></p>
+<p><center><b>DCS Channel</b>은 디스코드를 거점으로 DCS 및 비행 시뮬레이션 전반을 다루는 <b>매우</b> 자유로운 분위기의 커뮤니티입니다.</center></p>
+<p><center>이 위키에는 DCS Channel이 운영하고 있는 24시간 <b>다이나믹 캠페인 서버의 이용 요령</b>과 뉴비부터 숙련자까지 누구나 유용히 참고할 수 있는 <b>기체 운용 매뉴얼</b>, BVR/WVR 상황에서 적을 빠르고 확실하게 제압하기 위한 <b>PvP 가이드</b>를 정리하고 있습니다.</center></p>
 
 * [24/7 다이나믹 캠페인 튜토리얼](/서버)
     * [스폰이 안 됩니다! — 슬롯 잡는 법](/서버/슬롯)
