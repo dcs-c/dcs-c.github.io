@@ -1,5 +1,5 @@
 # 환영합니다.
-
+![](https://github.com/dcs-c/dcs-c.github.io/blob/main/docs/images/fsg.png?raw=true)
 
 **DCS Channel 위키**에 방문하신 것을 환영합니다.
 
