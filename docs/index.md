@@ -2,7 +2,9 @@
 ![](https://raw.githubusercontent.com/dcs-c/dcs-c.github.io/refs/heads/main/docs/images/fsg.png)
 
 <center><b>DCS Channel 위키</b>에 방문하신 것을 환영합니다.</center>
+
 <center><b>DCS Channel</b>은 디스코드를 거점으로 DCS 및 비행 시뮬레이션 전반을 다루는</center>
+
 <center><b>매우</b> 자유로운 분위기의 커뮤니티입니다.</center>
 
 
