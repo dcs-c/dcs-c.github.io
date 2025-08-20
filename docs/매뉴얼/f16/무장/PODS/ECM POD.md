@@ -118,11 +118,11 @@ ECM 모드 스위치의 위치
 
 
 ![](https://github.com/dcs-c/dcs-c.github.io/blob/main/docs/%EB%A7%A4%EB%89%B4%EC%96%BC/f16/images/Digital%20Combat%20Simulator%202025-08-20%20%EC%98%A4%ED%9B%84%204_35_00.png?raw=true)
-이제 [CMS](/f16/키세팅/스틱설정/CMS)를 아래로 내려보자. 그러면 위 사진처럼 'S'가 'A'로 바뀌었을 것이다. 'A'는 ACTIVE, 즉, 활성화되었으며 이 상태에서 누군가 기체에 락온을 한다면 즉시 'A'에서 'T'로 바뀌며 전파를 발산한다.
+이제 [CMS](/f16/키세팅/스틱_설정/CMS)를 아래로 내려보자. 그러면 위 사진처럼 'S'가 'A'로 바뀌었을 것이다. 'A'는 ACTIVE, 즉, 활성화되었으며 이 상태에서 누군가 기체에 락온을 한다면 즉시 'A'에서 'T'로 바뀌며 전파를 발산한다.
 
 
 ![](https://github.com/dcs-c/dcs-c.github.io/blob/main/docs/%EB%A7%A4%EB%89%B4%EC%96%BC/f16/images/Digital%20Combat%20Simulator%202025-08-20%20%EC%98%A4%ED%9B%84%204_34_31.png?raw=true)
-XMIT 모드의 경우, 똑같이 [CMS](/f16/키세팅/스틱설정/CMS)를 아래로 내린다면 'A'가 아닌 'T' 로 바뀌며 즉시 전파를 발산하기 시작한다. 전파 발산을 멈추고 레이더를 다시 작동시키기 위해서는 [CMS](/f16/키세팅/스틱설정/CMS)를 오른쪽으로 당기면 된다.
+XMIT 모드의 경우, 똑같이 [CMS](/f16/키세팅/스틱_설정/CMS)를 아래로 내린다면 'A'가 아닌 'T' 로 바뀌며 즉시 전파를 발산하기 시작한다. 전파 발산을 멈추고 레이더를 다시 작동시키기 위해서는 [CMS](/f16/키세팅/스틱_설정/CMS)를 오른쪽으로 당기면 된다.
 
 
 
