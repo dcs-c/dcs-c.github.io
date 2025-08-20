@@ -67,14 +67,69 @@ ECM 우선 모드이다. 1번 모드와 같이 대기중이던 ECM이 하드락�
 
 
 
-(ECM 영상)
 
-* 1번모드
-    * countermeasure 모드가 Semi 또는 Auto로 되어 있어야 작동한다.
-* 2번모드
-    * countermeasure 모드가 Semi 또는 Auto로 되어 있어야 작동한다. 
-* 3번모드
-    * countermeasure 모드가  Manual 또는 Bypass로 되어 있어야 작동한다.
+![](https://github.com/dcs-c/dcs-c.github.io/blob/main/docs/%EB%A7%A4%EB%89%B4%EC%96%BC/f16/images/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7(10).png?raw=true)
+MODE 노브의 위치
+
+
+
+* ECM 1번 모드
+    * Dispenser 모드 노브가 Semi 또는 Auto로 되어 있어야 작동한다.
+* ECM 2번 모드
+    * Dispenser 모드 노브가 Semi 또는 Auto로 되어 있어야 작동한다. 
+* ECM XMIT 모드
+    * Dispenser 모드 노브가  Manual 또는 Bypass로 되어 있어야 작동한다.
+
+
+
+
+
+![](https://github.com/dcs-c/dcs-c.github.io/blob/main/docs/%EB%A7%A4%EB%89%B4%EC%96%BC/f16/images/F16%20%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC%20-%20Google%20Slides%20-%20Chrome%202025-08-20%20%EC%98%A4%ED%9B%84%205_30_38.png?raw=true)
+ECM 모드 스위치의 위치
+
+
+* 1번 모드
+    * 전파 발산하는 중에도 레이더 사용 가능
+    * 측 후방 재밍
+    * 락온 당할 때에만 전파 발산 
+* 2번 모드
+    * 전파 발산중에는 레이더 사용 불가
+    * 전방위 재밍
+    * 락온 당할 때에만 전파 발산
+* XMIT 모드
+    * 활성화 즉시 상시 작동
+    * 레이더 사용 불가
+    * 전방위 재밍
+
+
+
+
+
+
+![](https://github.com/dcs-c/dcs-c.github.io/blob/main/docs/%EB%A7%A4%EB%89%B4%EC%96%BC/f16/images/F16%20%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC%20-%20Google%20Slides%20-%20Chrome%202025-08-20%20%EC%98%A4%ED%9B%84%205_07_03.png?raw=true)
+표시된 버튼들 중 오른쪽 아래의 버튼 2개 빼고 나머지는 전부 눌러줄 것. 해당 버튼들은 ECM 포드에 내장된 모듈들을 켜는 스위치이다.
+
+
+
+
+
+![](https://github.com/dcs-c/dcs-c.github.io/blob/main/docs/%EB%A7%A4%EB%89%B4%EC%96%BC/f16/images/Digital%20Combat%20Simulator%202025-08-20%20%EC%98%A4%ED%9B%84%204_33_50.png?raw=true)
+전부 눌렀다면 위 사진처럼 'S'글자가 떠 있을 것. 이는 STANDBY, 즉, 해당 모듈에 전원이 들어 왔으며 현재 대기중이라는 뜻이다.
+
+
+![](https://github.com/dcs-c/dcs-c.github.io/blob/main/docs/%EB%A7%A4%EB%89%B4%EC%96%BC/f16/images/Digital%20Combat%20Simulator%202025-08-20%20%EC%98%A4%ED%9B%84%204_35_00.png?raw=true)
+이제 [CMS](/f16/키세팅/스틱설정/CMS)를 아래로 내려보자. 그러면 위 사진처럼 'S'가 'A'로 바뀌었을 것이다. 'A'는 ACTIVE, 즉, 활성화되었으며 이 상태에서 누군가 기체에 락온을 한다면 즉시 'A'에서 'T'로 바뀌며 전파를 발산한다.
+
+
+![](https://github.com/dcs-c/dcs-c.github.io/blob/main/docs/%EB%A7%A4%EB%89%B4%EC%96%BC/f16/images/Digital%20Combat%20Simulator%202025-08-20%20%EC%98%A4%ED%9B%84%204_34_31.png?raw=true)
+XMIT 모드의 경우, 똑같이 [CMS](/f16/키세팅/스틱설정/CMS)를 아래로 내린다면 'A'가 아닌 'T' 로 바뀌며 즉시 전파를 발산하기 시작한다. 전파 발산을 멈추고 레이더를 다시 작동시키기 위해서는 [CMS](/f16/키세팅/스틱설정/CMS)를 오른쪽으로 당기면 된다.
+
+
+
+
+
+
+
 
 ### ECM 포드 종류
 
