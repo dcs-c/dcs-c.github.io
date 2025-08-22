@@ -1,5 +1,8 @@
 site_name: DCSC Wiki
 site_url: https://dcs-c.github.io
+plugins:
+  - search
+  - awesome-nav
 theme:
   name: material
   palette:
@@ -7,4 +10,3 @@ theme:
     primary: black
   font:
     text: IBM Plex Sans KR
-
