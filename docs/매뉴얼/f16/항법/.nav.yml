@@ -1,0 +1,8 @@
+nav:
+  - coldstart.md
+  - takeoff.md
+  - landing.md
+  - autopilot.md
+  - tacan.md
+  - ils.md
+  - "*"
