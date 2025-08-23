@@ -1,6 +1,7 @@
 # 스틱 설정
 
 ## CMS
+<img width="860" height="469" alt="CMS" src="https://github.com/user-attachments/assets/54eccf87-7202-4e5f-b220-f6f48dca3a62" />
 
 Countermeasures management switch, 줄여서 CMS는 기체의 미사일 기만장치를 조작하는 스위치다. 해당 스위치는 위 사진처럼 엄지쪽에 위치한 버튼이다. aft 는 몸쪽으로 당기기, fwd는 앞쪽, left, right는 왼쪽 오른쪽이다.
 
@@ -13,6 +14,7 @@ Countermeasures management switch, 줄여서 CMS는 기체의 미사일 기만�
 **Fwd:** 프로그램된 모드에 따라 특정량의 기만체를 설정된 패턴으로 뿌린다.
 
 ## DMS
+<img width="894" height="475" alt="DMS" src="https://github.com/user-attachments/assets/1f265388-dcbf-40b5-8b80-fb1c6ae73277" />
 
 다음은 Display management switch(DMS)를 설정 하도록 하자.
 
@@ -26,6 +28,7 @@ F16C block 50에는 디스플레이가 2개가 있다. DMS를 밑으로 누르�
 **DMS Up:** HUD에 SOI하여 HUD의 조작이 가능해진다. 거의 쓸 일이 없지만 그래도 설정은 해 주도록 하자.
 
 ## TMS
+<img width="886" height="480" alt="TMS" src="https://github.com/user-attachments/assets/6121449a-1ba2-4d7c-9126-13887811a35f" />
 
 다음은 Target Management Switch(TMS)이다
 
@@ -38,4 +41,55 @@ F16C block 50에는 디스플레이가 2개가 있다. DMS를 밑으로 누르�
 **TMS Left:** 모드 사이클. 어떤 모드에서 쓰느냐에 따라 다르지만 보통 특정 모드를 순환하는 기능이다. 예를 들자면 타겟팅 포드 사용시 해당 버튼으로 카메라(CCD), 화이트 핫(열영상), 블랙 핫(열영상) 모드를 순서대로 변경 할 수있다.
 
 **TMS Right:** 공대공 모드에서는 TWS나 RWS에서 다중 목표 추적 할 때 지정한 목표를 순환하는 버튼이다. 공대지 모드에서는 타겟팅포드를 사용 할 때 INR track, Area track, Point track을 순서대로 순환 할 수 있다.
+
+## Trim
+
+
+<img width="878" height="498" alt="TRIM" src="https://github.com/user-attachments/assets/f8297fc5-6d82-4013-9484-f668e7f921fa" />
+
+
+트림 스위치는 기체마다 다르지만 F16C에서는 필수라고 할 만한 스위치가 아니다. 만약 당신에게 헤드트레커가 없다면 이 버튼은 당신의 시야를 조정할 버튼으로 남겨 두어야 한다.
+
+만약 당신이 헤드트레커까지 구비한 아주 바람직한 뉴비라면 휼륭하다. 원래 목적대로 트림을 설정 해 주도록 하자.
+
+트림이란 기체의 기본 자세에서 미세하게 오프셋을 줘 기체를 의도적으로 한쪽으로 쏠리게 만드는 것을 말한다. 이 기능이 필요한 이유는 전투과정에서 탄을 소모함에 따라 기체의 무게중심이 변화하기 때문이다.
+
+예를 들어 폭탄이 양쪽 날개에 하나씩 달려 있었으나 왼쪽 폭탄만 사용한 경우 폭탄이 기체 오른쪽에만 달려있기때문에 기체가 오른쪽으로 ROLL하려는 현상이 생긴다. 
+
+이런 현상이 심해질 경우 오토파일럿을 설정해도 기체 안정화가 되지 않는 경우가 생길 수 있기에 왼쪽으로 트림을 적당량 줘서 기체의 균형을 맞춰줘야 한다.
+
+만약 트림을 주지 않는다면 잠시 눈 땐 사이 어느샌가 바닥으로 수직낙하하는 당신을 발견하게 될 것이다.
+
+**Trim Up:** 기수를 내리는 오프셋을 준다
+
+**Trim Down:** 기수를 올리는 오프셋을 준다 
+
+**Trim Left:** 왼쪽 날개를 아래로 내리는 오프셋을 준다
+
+**Trim Right:** 오른쪽 날개를 아래로 내리는 오프셋을 준다
+
+## Weapon Release
+<img width="864" height="459" alt="WPN REL" src="https://github.com/user-attachments/assets/3b4fff77-63e1-4f6f-855c-e92a8c0e3b68" />
+
+해당 스위치는 기총을 제외한 나머지 모든 무장을 발사 하는 버튼이다. 짧게 누르면 발사가 안되니 길게 눌러야 한다.
+
+연료탱크나 무장을 선택 Jettison 할 때에도 이 버튼을 눌러서 떨군다.
+
+해군기의 경우 이 버튼은 공대지 무장만 발사하고 공대공 미사일은 트리거를 꾹 누르는 것으로 발사하지만 F16C는 공군기인 관계로 20mm 기총을 제외한 모든 무장을 이 버튼으로 발사한다.
+
+## Trigger
+<img width="887" height="500" alt="TRIGGER" src="https://github.com/user-attachments/assets/d50b743f-2b3e-4253-8d21-f61a70d7c871" />
+
+가장 낭만 넘치지만 막상 사용 할 일은 많이 없는 스위치. 
+
+F16의 경우 트리거에 2번의 디텐트가 있다. 절반정도 당기면 ‘딸깍’ 소리가 나며 첫번째 디텐트에 도달 한 것이고, 끝까지 당기면 두번째 디텐트를 누른 것이다. 
+
+기총은 second detent 까지 당겨야 나가며 퍼스트 디텐트는 공대지 임무에서 유도레이져를 조사할때 사용된다. 최근 나온 스틱의 대부분은 이 퍼스트, 세컨드 디텐트가 구현되어 있지만, 만약 없는 스틱이라도 절망할 필요는 없다. 퍼스트 디텐트는 없어도 전혀 무방하기 때문.
+
+**First Detent:** 유도레이져를 수동으로 조사할때 쓰인다. 여차하면 다른 버튼이다 그냥 Second Detent로도 대체가 가능한 버튼이기에 꼭 설정 할 필요는 없다.
+
+
+**Second Detent:** 기총 발사 단 하나만을 위한 버튼이다. 이 버튼을 길게 눌러 공대공 미사일도 발사하는 해군기와는 다르게 공군기는 오직 기총만을 발사한다.
+
+
 
