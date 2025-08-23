@@ -1,1 +1,1 @@
-# AN/ASQ-213 Harm Targeting System
+# AN/ASQ-213 Harm Targeting System Pod (HTS)

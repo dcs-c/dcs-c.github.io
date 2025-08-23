@@ -10,3 +10,10 @@ theme:
     primary: black
   font:
     text: IBM Plex Sans KR
+markdown_extensions:
+  - toc:
+      permalink: true
+      slugify: !!python/name:markdown.extensions.toc.slugify_unicode
+extra_javascript:
+    - js/copy-anchors.js
+
