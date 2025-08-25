@@ -2,9 +2,23 @@
 
 AGM-88 HARM은 대 레이더 미사일이며 이미지, 레이져, GPS등의 유도방식을 사용하는 여타 공대지 유도미사일들과는 달리 오직 상대의 레이더를 조지기 위해 탄생한 미사일이다. 그렇다고 레이더를 사용하는 항공기를 맞추기 위한 미사일은 아니다. AGM이라는 명칭에서 알 수 있듯 선박이나 SAM 레이더 같이 지표면 위의 목표를 타격하기 위한 플렛폼이다.
 
+[HARM POD](/매뉴얼/f16/항전장비/hts)도 없이 HARM 자체 센서로 작전해야하는 찐따같은 호넷(SEAD 한정)과는 다르게 **유일하게** F16에만 장착되는 위대한 [HARM POD](/매뉴얼/f16/항전장비/hts)는 HARM 조작을 훨씬 직관적으로 바꿔준다. 
 
-[HARM POD](/f16/무장/PODS/HARM_POD)도 없이 HARM 자체 센서로 작전해야하는 찐따같은 호넷(SEAD 한정)과는 다르게 **유일하게** F16에만 장착되는 위대한 [HARM POD](/f16/무장/PODS/HARM_POD)는 HARM 조작을 훨씬 직관적으로 바꿔준다. 
+만약 당신이 SEAD 임무를 받은 [Wild Weasle](/가이드/용어사전)이라면 잊지 말고 **반드시** [HARM POD](/매뉴얼/f16/항전장비/hts)를 장착 하도록 하자.
 
-만약 당신이 SEAD 임무를 받은 [Wild Weasle](/가이드/용어사전)이라면 잊지 말고 **반드시** [HARM POD](/f16/무장/PODS/HARM_POD)를 장착 하도록 하자.
+HTS 를 이용해 HARM 을 편안하게 발사하는 방법은 [HTS Pod](/매뉴얼/f16/항전장비/hts) 항목에서 다루도록 하겠다. 아래 문서는 HTS Pod 를 사용하지 않고 HARM 을 사격하는 방법이다. 
 
-해당 무장을 다루는 법은 [HARM POD](/f16/무장/PODS/HARM_POD) 항목에서 다루도록 하겠다.
+## 준비
+
+## 조준
+
+### PB
+Pre-Briefed Mode.
+
+### RUK
+Range UnKnown Mode.
+
+### EOM
+Equations Of Motion Mode.
+
+## 발사
