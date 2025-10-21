@@ -48,3 +48,19 @@ Speed Brake switch, 즉, 에어브레이크 스위치다.
 
 
 **SPD BRK Switch - fwd/Retract:** 에어브레이크를 접는다.
+
+
+
+
+## DOGFIGHT switch/Normal mode/Missle override switch
+
+## VHF/UHF
+
+
+## IFF in/IFF out
+
+## RNG knob
+
+## Cage/Uncage
+
+
