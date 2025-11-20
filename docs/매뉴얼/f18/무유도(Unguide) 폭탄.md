@@ -15,7 +15,7 @@
 >> MK.83 : 1000파운드
 >> MK.84 : 2000파운드
 
-<img width="1064" height="410" alt="image" src="https://github.com/user-attachments/assets/805e7037-06e6-4424-b572-4173fe264300" />
+
 
 > MK 시리즈 폭탄은 2 3 5 7 8번 파일런에 무장이 가능하다
 
