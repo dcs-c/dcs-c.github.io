@@ -11,9 +11,13 @@
 <img width="1064" height="1061" alt="image" src="https://github.com/user-attachments/assets/71c9b99b-93b3-49c7-88ac-580280ce84e9" />
 
 >무유도 폭탄은 여러 종류가 있지만 그중 가장 기본이 되는 MK 시리즈 폭탄을 다룬다
+
 >> MK.82 : 500파운드
+
 >> MK.83 : 1000파운드
+
 >> MK.84 : 2000파운드
+
 >> 무게가 더 무거울 수록 당연히 파괴력이 더 강하다.
 
 
