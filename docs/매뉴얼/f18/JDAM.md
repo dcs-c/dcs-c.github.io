@@ -178,5 +178,36 @@
 <img width="2559" height="1308" alt="스크린샷 2025-11-28 112122" src="https://github.com/user-attachments/assets/6f72957f-b355-40db-9ccf-ce594d2f852e" />
 <img width="2559" height="1314" alt="스크린샷 2025-11-28 112131" src="https://github.com/user-attachments/assets/f78ebd2e-9977-45c7-a9f9-5e9b23935634" />
 
+## TOO모드 사용법
 
+PP모드에서는 적의 좌표를 정확하게 알아야 했으며 폭탄 하나 하나 좌표를 입력하는 과정이 생각보다 귀찮았을것이다 모든 파일런에 달았다면 총 8개를 입력해야되니 더 그럴것이다
 
+하지만 TOO모드는 페이브웨이에서 썻던 방법 처럼 폭탄에 손수 하나 하나 입력하는것이 아닌 타겟팅포드로 적을 찾아 좌표를 추출하면 현재 선택되어있는 파일런의 JDAM에 무려 자동으로 좌표가 입력된다!
+
+그래서 JDAM은 보통 PP모드보다 TOO모드를 주로 사용하는 편이다
+
+<img width="567" height="480" alt="image" src="https://github.com/user-attachments/assets/fd8c85c2-0237-4656-b5e2-6e449644e90d" />
+
+> A/G모드, FLIR 스위치 ON, 마스터 암 ON, 스토어 페이지에서 JDAM 선택 후 INS 정렬 및 TOO 모드로 변경, 전기신관 INST 설정
+
+<img width="437" height="422" alt="image" src="https://github.com/user-attachments/assets/78d59a00-fc92-4bcc-8281-dd8183386623" />
+<img width="448" height="448" alt="image" src="https://github.com/user-attachments/assets/e87249e2-c507-434c-82d6-fa3d2e4362ca" />
+<img width="440" height="427" alt="image" src="https://github.com/user-attachments/assets/62989a6d-fcf9-4a40-bd3a-0fc425833463" />
+
+? 웨이포인트로 대략적인 상대 위치를 타겟팅포인트로 생성후 타겟팅포드 화면으로 전환, SOI 후 한번더 우측으로 SOI 시켜 조준자 변경 후 타격 대상을 찾는다
+
+<img width="1575" height="1230" alt="image" src="https://github.com/user-attachments/assets/d150ff58-01ab-451b-b910-dfe42d71f885" />
+
+> 찾은 이후 TDC Depress를 눌러주면 현재 선택되어있는 JDAM에 좌표가 입력된다
+>> 물론 타겟팅포드로 적을 찾는것이기에 현재 기체의 고도가 높다면 구름으로 인해 시야가 보이지 않을 수도 있으니 기체를 구름 아래 고도로 낮추거나 틈틈히 있는 구름 사이로 적을 찾아 빠르게 TDC Depress를 눌러 좌표를 추출한다
+
+<img width="1526" height="1282" alt="image" src="https://github.com/user-attachments/assets/4e17aaca-26b9-4dd8-8be8-0a298764f93c" />
+
+> HUD에 타이머가 0이 되고 IN ZONE 큐가 뜨면 투하해주면 된다
+
+<img width="2559" height="1307" alt="image" src="https://github.com/user-attachments/assets/1d330ace-70cf-4051-a803-5e2c4c250627" />
+<img width="2559" height="1311" alt="스크린샷 2025-11-28 112035" src="https://github.com/user-attachments/assets/980e9aa6-7a6c-403e-89de-f9258e764e8b" />
+<img width="2552" height="1315" alt="스크린샷 2025-11-28 112111" src="https://github.com/user-attachments/assets/33f537ae-9127-436a-96f5-075c90d663db" />
+<img width="2559" height="1314" alt="스크린샷 2025-11-28 112131" src="https://github.com/user-attachments/assets/33219edb-c9dc-49fb-8fec-189edc741940" />
+
+이 처럼 JDAM은 TOO모드로 사용시 다른 그 어떠한 폭탄보다 간결하게 사용이 가능하다
