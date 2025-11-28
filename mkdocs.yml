@@ -16,4 +16,5 @@ markdown_extensions:
       slugify: !!python/name:markdown.extensions.toc.slugify_unicode
 extra_javascript:
     - js/copy-anchors.js
-
+extra_css:
+    - assets/stylecheets/custom.css
