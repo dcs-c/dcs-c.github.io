@@ -16,7 +16,7 @@
 <img width="1062" height="867" alt="image" src="https://github.com/user-attachments/assets/34383ac4-03f3-4c2d-8514-49e482ac1bcd" />
 
 > JDAM은 2,3,7,8번 파일런에 장착이 가능하며 500,1000,2000파운드로 나뉘어 있다, 1000파운드 이하는 한 파일런에 2개씩 달 수 있어 총 8개의 JDAM을 가지고 이륙 할 수 있다
->> 추후 서술 하겠지만 타겟팅 포드를 장착하고 이륙하는게 좋다 페이브 웨이처럼 필수는 아니지만 없으면 매우 불편할것이다..
+>> 추후 서술 하겠지만 TOO모드로 투하하겠다고 하면 타겟팅포드를 들고 이륙해야한다
 
 <img width="642" height="555" alt="image" src="https://github.com/user-attachments/assets/f2083ced-140d-4890-819f-920f148f8e61" />
 
