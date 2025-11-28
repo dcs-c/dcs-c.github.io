@@ -6,7 +6,7 @@ plugins:
 theme:
   name: material
   palette:
-    scheme: brown
+    scheme: slate
     primary: black
   font:
     text: IBM Plex Sans KR
