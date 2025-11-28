@@ -186,7 +186,7 @@ PP모드에서는 적의 좌표를 정확하게 알아야 했으며 폭탄 하�
 
 그래서 JDAM은 보통 PP모드보다 TOO모드를 주로 사용하는 편이다
 
-<img width="567" height="480" alt="image" src="https://github.com/user-attachments/assets/fd8c85c2-0237-4656-b5e2-6e449644e90d" />
+<img width="629" height="516" alt="image" src="https://github.com/user-attachments/assets/535e2576-35d1-426d-a09a-67704ce4c360" />
 
 > A/G모드, FLIR 스위치 ON, 마스터 암 ON, 스토어 페이지에서 JDAM 선택 후 INS 정렬 및 TOO 모드로 변경, 전기신관 INST 설정
 
