@@ -21,6 +21,8 @@ JDAM(통칭 제이담)과 같은 유도방식을 사용하지만 활공용 날�
 
 > 제이소우는 제이담과 같은 유도방식을 사용하기에 제이담처럼 약 2분 30초간의 정렬시간이 필요하다
 
+> 제이소우의 디스플레이 구성은 JDAM과 글자만 조금 다를뿐 거의 비슷하다
+
 ## PP모드 사용법 
 
 <img width="594" height="476" alt="image" src="https://github.com/user-attachments/assets/db4af4b0-df8c-4a2d-b99e-6fbffe1f9a37" />
