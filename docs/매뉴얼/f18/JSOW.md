@@ -29,7 +29,7 @@ JDAM(통칭 제이담)과 같은 유도방식을 사용하지만 활공용 날�
 
 > MODE : PP모드
 
-> EFUZ : INST 즉각신관
+> EFUZ : ON
 
 > JSOW DSPLY - MSN - TGT UFC 버튼을 눌러 제이담에서 서술한 좌표 입력을 그대로 시행하면된다
 >> <img width="582" height="481" alt="image" src="https://github.com/user-attachments/assets/6857fe99-e735-45be-85de-ef576638a432" />
@@ -56,7 +56,7 @@ JDAM(통칭 제이담)과 같은 유도방식을 사용하지만 활공용 날�
 
 > MODE : TOO 모드
 
-> EFUZ : INST 즉각신관
+> EFUZ : ON
 
 <img width="459" height="456" alt="image" src="https://github.com/user-attachments/assets/9f3946e8-24b9-4ae0-bdd6-57d67265089e" />
 <img width="448" height="470" alt="image" src="https://github.com/user-attachments/assets/8a493d01-519b-4031-ba1d-e8c3cc236c62" />
