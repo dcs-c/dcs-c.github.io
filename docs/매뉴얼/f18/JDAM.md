@@ -108,7 +108,7 @@ PP모드에서는 적의 좌표를 정확하게 알아야 했으며 폭탄 하�
 <img width="448" height="448" alt="image" src="https://github.com/user-attachments/assets/e87249e2-c507-434c-82d6-fa3d2e4362ca" />
 <img width="440" height="427" alt="image" src="https://github.com/user-attachments/assets/62989a6d-fcf9-4a40-bd3a-0fc425833463" />
 
-? 웨이포인트로 대략적인 상대 위치를 타겟팅포인트로 생성후 타겟팅포드 화면으로 전환, SOI 후 한번더 우측으로 SOI 시켜 조준자 변경 후 타격 대상을 찾는다
+> 웨이포인트로 대략적인 상대 위치를 타겟팅포인트로 생성후 타겟팅포드 화면으로 전환, SOI 후 한번더 우측으로 SOI 시켜 조준자 변경 후 타격 대상을 찾는다
 
 <img width="1575" height="1230" alt="image" src="https://github.com/user-attachments/assets/d150ff58-01ab-451b-b910-dfe42d71f885" />
 
