@@ -66,7 +66,7 @@ JDAM(통칭 제이담)과 같은 유도방식을 사용하지만 활공용 날�
 
 <img width="1682" height="1191" alt="image" src="https://github.com/user-attachments/assets/f0f85bec-6a12-4e1a-9d07-421dd5fabfcf" />
 
-> TDC Depress 버튼을 눌러 좌표를 제이소우에 입력 후 투하하면 된다
+> TDC Depress 버튼을 눌러 좌표를 제이소우에 입력 후 사거리 내 진입 하여 투하하면 된다
 
 <img width="2559" height="1324" alt="image" src="https://github.com/user-attachments/assets/311fad6b-5092-4327-a2ec-4ccc6620809b" />
 <img width="2559" height="1324" alt="스크린샷 2025-11-29 130015" src="https://github.com/user-attachments/assets/13d43116-cc24-45b5-afd2-d05e7ed55c34" />
