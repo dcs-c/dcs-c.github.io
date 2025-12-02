@@ -9,3 +9,13 @@
 ## 사용법
 
 <img width="1096" height="588" alt="image" src="https://github.com/user-attachments/assets/0cd5a11d-83e0-4ae3-92d8-f043ba8bdce2" />
+<img width="1684" height="909" alt="image" src="https://github.com/user-attachments/assets/f555f4a1-3087-44d6-88d8-8da9ec119fb9" />
+
+> 하푼은 2,3,7,8번 파일런에 장착이 가능하며 각 파일런당 1개씩만 장착이 가능하다
+
+<img width="670" height="491" alt="image" src="https://github.com/user-attachments/assets/407c67c5-c579-4393-bff4-319dde649c8a" />
+
+> A/G모드, 마스터 암 ON, 스토어 페이지에서 하푼 선택
+>> <img width="539" height="489" alt="image" src="https://github.com/user-attachments/assets/42fd4301-8928-42d0-b0ea-3ee9967caa76" />
+
+>> 하푼 또한 제이담 제이소우와 마찬가지로 무장 선택 이후 정렬을 해줘야하는데 이는 약 25초 정도로 짧은편이다
