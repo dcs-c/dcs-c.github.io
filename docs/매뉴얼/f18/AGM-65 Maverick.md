@@ -35,7 +35,7 @@ AGM-65 Maverick 통칭 매버릭은 약 7~15마일 정도의 사거리를 가진
 
 <img width="1685" height="681" alt="image" src="https://github.com/user-attachments/assets/73a6cf3b-6347-437a-aa41-5ff652b8cac3" />
 
-> 이후 타겟팅포인트로 접근하기전에 타겟팅포드랑 매버릭의 레이저코드가 일치하도록 설정한다
+> 이후 타겟팅포인트로 접근하기전에 타겟팅포드랑 매버릭의 레이저코드가 일치하도록 매버릭 센서 화면 UFC를 눌러 설정한다
 
 <img width="623" height="467" alt="image" src="https://github.com/user-attachments/assets/882eeee4-04fa-4079-b45b-1586f53d7361" />
 <img width="523" height="486" alt="image" src="https://github.com/user-attachments/assets/ba99e7c3-3adc-4edc-aa01-65bccacd31c8" />
