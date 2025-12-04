@@ -26,14 +26,12 @@
 <img width="431" height="415" alt="스크린샷 2025-11-26 120311" src="https://github.com/user-attachments/assets/c320682f-4558-4c72-9385-2cab7107dffb" />
 
 > 1. 신관설정이다
->> inst: 즉각신관, 적 명중과 동시에 폭발한다
-
->> dly: 지연신관, 적 명중 후 잠시 뒤 폭발한다
+>> - inst: 즉각신관, 적 명중과 동시에 폭발한다
+>> - dly: 지연신관, 적 명중 후 잠시 뒤 폭발한다
 
 > 2. 조준자다
->> 타겟팅포드에서도 서술했듯 월아이 렌즈 화면이 켜져있는 MFD에 SOI 시키고 TDC를 통해 움직여 적을 조준 할 수 있다
-
->> 하지만 월아이의 렌즈는 현재 고정되어있는 상태이기 때문에 단순 TDC를 통해서는 못움직이고 SOI 이후에 cage button(기본설정 기준 C)을 눌러 UNcage를 해줘야 렌즈를 움직일 수 있다
+>> - 타겟팅포드에서도 서술했듯 월아이 렌즈 화면이 켜져있는 MFD에 SOI 시키고 TDC를 통해 움직여 적을 조준 할 수 있다
+>> - 하지만 월아이의 렌즈는 현재 고정되어있는 상태이기 때문에 단순 TDC를 통해서는 못움직이고 SOI 이후에 cage button(기본설정 기준 C)을 눌러 UNcage를 해줘야 렌즈를 움직일 수 있다
 
 > 3. 2번 파일런과 8번 파일런의 월아이 중 어떤것을 사용할지 정하는 순환 버튼이다
 
@@ -66,7 +64,7 @@
 <img width="442" height="439" alt="image" src="https://github.com/user-attachments/assets/da65bd8e-d76d-4896-bd4d-ba5a27e5799e" />
 
 > 우선 원하는 타겟 근처의 좌표를 웨이포인트에 입력하여 타겟팅 포인트를 생성해준다
->> 물론 바로 타겟팅 포드를 이용해 타겟팅 포인트를 생성해도 된다, 타켓팅포드로 적을 찾아 락온을 하는 경우 TDC Depress 버튼을 눌러줘야 타겟팅 포인트가 생성되니 참고할것.
+>> - 물론 바로 타겟팅 포드를 이용해 타겟팅 포인트를 생성해도 된다, 타켓팅포드로 적을 찾아 락온을 하는 경우 TDC Depress 버튼을 눌러줘야 타겟팅 포인트가 생성되니 참고할것.
 
 <img width="1573" height="1192" alt="image" src="https://github.com/user-attachments/assets/d5ff0ce9-c332-4595-830d-aace80244cf2" />
 <img width="1536" height="1191" alt="image" src="https://github.com/user-attachments/assets/299b0ba1-06c9-4eba-bb21-7574a5bd11ed" />
