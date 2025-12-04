@@ -61,3 +61,50 @@ AGM-65 Maverick 통칭 매버릭은 약 7~15마일 정도의 사거리를 가진
 
 ## AGM-65F 사용법
 
+F형은 열상을 추적하는 방식으로 E형에 비해 사거리는 짧지만 레이저 유도 처럼 지속적으로 적진을 향해 날아갈 필요가 없어 쏘고 180도로 꺾어도 매버릭은 락온된 대상을 자체적으로 추적한다
+
+<img width="733" height="570" alt="스크린샷 2025-12-04 175117" src="https://github.com/user-attachments/assets/534fa78f-651d-4da0-9b06-3f034605ae3d" />
+
+> A/G모드, 마스터 암 ON, MAVF 선택 후 한번 더 클릭하면 매버릭F형의 자체 IR 시커 화면으로 전환된다 IR 시커는 바로 켜지는게 아닌 타겟팅포드처럼 약 3분간의 대기가 필요하다
+>> 1. 락온에 필요한 조준자다
+>> 2. 매버릭E형과 같은 신관설정이다
+>> 3. 함선 추적에 용이하도록 스캔 방식을 바꾸는 버튼이다
+>> 4. 확대 축소 버튼이다 단 2단계만을 지원한다
+>> 5. E형과 똑같이 혹은 타겟팅포드 처럼 조준자를 TDC로 직접 조작 하기 위해서는 IR 시커 화면으로 SOI 후 c키를 눌러 언케이지를 해줘야한다
+
+<img width="1238" height="1068" alt="image" src="https://github.com/user-attachments/assets/eac7f8f0-5442-4df4-b35c-d704304e47d4" />
+
+> IR 시커 화면으로 SOI 시킨 후 C를 눌러 언케이지 해서 TDC를 사용해 시커 조준자를 조종하여 적에게 가져다 대고 매버릭이 이를 통해 적을 락온하게 되면 RDY 표시가 뜨며 발사가 가능해진다 필요에따라 함선인 경우 SHIP모드 또는 FOV 버튼으로 확대해 적을 색출 하면 되고 E형 처럼 허드에 매버릭 시커가 보고 있는 곳이 역삼각형으로 표시된다
+
+<img width="1120" height="810" alt="스크린샷 2025-12-04 180034" src="https://github.com/user-attachments/assets/19c3c5e1-cd72-4a3c-aeff-b20a73b9d21c" />
+<img width="1928" height="1142" alt="image" src="https://github.com/user-attachments/assets/dc04cbf9-8dee-4c6d-b1a3-1a6d3956c45b" />
+
+하지만 F형 자체의 IR 시커는 해상도가 낮아 전차 혹은 소형 함선에 경우엔 잘 보이지도 않을 뿐더러 확대기능도 2단계밖에 지원하지 않아 적을 찾기가 매우 힘들다 이때 E형 처럼 타겟팅포드를 통해 조준하는 방법이 있다
+
+<img width="1886" height="1256" alt="image" src="https://github.com/user-attachments/assets/2cffcd56-d98c-4f13-a909-8fdbd91247ef" />
+
+> 타겟팅포드로 우선 적을 찾아 TDC Depress 버튼을 눌러 타겟팅포인트를 생성, 조준한다
+
+<img width="1842" height="1165" alt="image" src="https://github.com/user-attachments/assets/72c81c6e-7608-4515-b21e-0765b2e4a636" />
+
+> 이후 허드를 보면 E형처럼 최대 사거리까지 남은 시간이 표시되고 사거리내로 진입하면 IN RNG 큐가 뜬다
+
+<img width="1805" height="1110" alt="image" src="https://github.com/user-attachments/assets/44929cab-9893-4041-b419-534382c6587d" />
+
+> IN RNG 큐 이후 매버릭 IR 시커로 SOI 시킨 후 언케이지 해주면 타겟팅포드와 똑같은곳을 바라보게 된다
+
+<img width="1761" height="1154" alt="image" src="https://github.com/user-attachments/assets/5b334f39-0ce1-4232-8d78-de5694e96b7d" />
+
+> 이후 타겟팅포인트를 향해 천천히 날아가면서 C키로 케이지 언케이지를 왔다갔다해주며 매버릭 IR 시커가 적의 열상을 탐지하여 락온이 될때까지 반복하여 락온이 되면 RDY표시가 뜨고 발사하면된다, 타겟팅포드로 조준 했으나 매버릭 IR 시커가 자체 락온을 했으므로 Fire and forget이 가능하다
+
+<img width="1689" height="951" alt="image" src="https://github.com/user-attachments/assets/286e39b0-ab95-498a-8f2f-548ec558ee38" />
+<img width="1428" height="967" alt="image" src="https://github.com/user-attachments/assets/5bf2683d-67e3-4354-a6c5-0e5cf452deb6" />
+<img width="1633" height="1096" alt="image" src="https://github.com/user-attachments/assets/30168029-81cc-4653-9925-8c0975e0afa7" />
+
+<img width="654" height="556" alt="스크린샷 2025-12-04 181206" src="https://github.com/user-attachments/assets/a611a626-2697-4786-804c-bf686ec18296" />
+
+> 해당 십자가 모양도 E형의 X자와 월아이의 초록색 직사각형 처럼 시커가 움직일 수 있는 최대 범위를 알려준다 해당 십자가가 MFD 화면 끝까지 가게되면 IR 시커의 최대 동작범위다
+
+## 매버릭 사용시 주의할 점
+
+매버릭은 자체 추진체가 있는 미사일이지만 선회력이 나빠 고도가 1만 정도인데 수평비행을 하고있는 상태로 발사하게 되면 아무리 레이징 중이거나 매버릭 자체 IR 시커가 적을 포착해도 선회가 잘 되지 않아 엉뚱한곳으로 떨어지니 어느정도 기수를 적을 향하도록 유지해줘야한다 한마디로 허드에 시커가 바라보는곳을 나타내는 역삼각형이 보여야 한다
