@@ -91,7 +91,7 @@ AGM-84 SLAM은 Stand off Land Attack Missle로 줄여서 통칭 슬램이라고 
 
 <img width="808" height="983" alt="image" src="https://github.com/user-attachments/assets/a1e9e6a2-2bae-47f7-ae6e-4edad7e90d28" />
 
-> 웨이포인트를 해당 사진처럼 1,2,3번을 지정해놓는다(본인이 선회 시키고 싶은대로지만 너무 급격한 선회는 시키지 않는게 좋다, 1번과 2번이 선회지점 3번이 타격포인트다)
+> 웨이포인트를 해당 사진처럼 1,2,3번을 지정해놓는다(본인이 선회 시키고 싶은대로지만 너무 급격한 선회는 시키지 않는게 좋다, 1번과 2번이 선회지점, 3번이 타격포인트다)
 
 <img width="606" height="503" alt="image" src="https://github.com/user-attachments/assets/daf5b526-8392-4c5b-8df3-d9b3159c7e09" />
 
