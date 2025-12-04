@@ -74,7 +74,7 @@ F형은 열상을 추적하는 방식으로 E형에 비해 사거리는 짧지�
 
 <img width="1238" height="1068" alt="image" src="https://github.com/user-attachments/assets/eac7f8f0-5442-4df4-b35c-d704304e47d4" />
 
-> IR 시커 화면으로 SOI 시킨 후 C를 눌러 언케이지 해서 TDC를 사용해 시커 조준자를 조종하여 적에게 가져다 대고 매버릭이 이를 통해 적을 락온하게 되면 RDY 표시가 뜨며 발사가 가능해진다 필요에따라 함선인 경우 SHIP모드 또는 FOV 버튼으로 확대해 적을 색출 하면 되고 E형 처럼 허드에 매버릭 시커가 보고 있는 곳이 역삼각형으로 표시된다
+> IR 시커 화면으로 SOI 시킨 후 C를 눌러 언케이지 해서 TDC를 사용해 시커 조준자를 조종하여 적에게 가져다 대고 매버릭이 이를 통해 적을 락온하게 되면 RDY 표시가 뜨며 발사가 가능해진다 필요에 따라 함선인 경우 SHIP모드 또는 FOV 버튼으로 확대해 색적 하면 되고 E형 처럼 허드에 매버릭 시커가 보고 있는 곳이 역삼각형으로 표시된다
 
 <img width="1120" height="810" alt="스크린샷 2025-12-04 180034" src="https://github.com/user-attachments/assets/19c3c5e1-cd72-4a3c-aeff-b20a73b9d21c" />
 <img width="1928" height="1142" alt="image" src="https://github.com/user-attachments/assets/dc04cbf9-8dee-4c6d-b1a3-1a6d3956c45b" />
