@@ -59,7 +59,7 @@ AGM-65 Maverick 통칭 매버릭은 약 7~15마일 정도의 사거리를 가진
 <img width="1276" height="952" alt="image" src="https://github.com/user-attachments/assets/d047fd1e-b9aa-4943-91e5-f1c9aa5e9c18" />
 <img width="2220" height="1307" alt="image" src="https://github.com/user-attachments/assets/67545934-4efb-41e7-aef5-33368bd2ed1b" />
 
-## AGM-65F 사용법
+## AGM-65F 단독 사용법
 
 F형은 열상을 추적하는 방식으로 E형에 비해 사거리는 짧지만 레이저 유도 처럼 지속적으로 적진을 향해 날아갈 필요가 없어 쏘고 180도로 꺾어도 매버릭은 락온된 대상을 자체적으로 추적한다
 
@@ -79,7 +79,9 @@ F형은 열상을 추적하는 방식으로 E형에 비해 사거리는 짧지�
 <img width="1120" height="810" alt="스크린샷 2025-12-04 180034" src="https://github.com/user-attachments/assets/19c3c5e1-cd72-4a3c-aeff-b20a73b9d21c" />
 <img width="1928" height="1142" alt="image" src="https://github.com/user-attachments/assets/dc04cbf9-8dee-4c6d-b1a3-1a6d3956c45b" />
 
-하지만 F형 자체의 IR 시커는 해상도가 낮아 전차 혹은 소형 함선에 경우엔 잘 보이지도 않을 뿐더러 확대기능도 2단계밖에 지원하지 않아 적을 찾기가 매우 힘들다 이때 E형 처럼 타겟팅포드를 통해 조준하는 방법이 있다
+## AGM-65F 타겟팅포드 연동 후 사용법
+
+F형 자체의 IR 시커는 해상도가 낮아 전차 혹은 소형 함선에 경우엔 잘 보이지도 않을 뿐더러 확대기능도 2단계밖에 지원하지 않아 적을 찾기가 매우 힘들다 이때 E형 처럼 타겟팅포드를 통해 조준하는 방법이 있다
 
 <img width="1886" height="1256" alt="image" src="https://github.com/user-attachments/assets/2cffcd56-d98c-4f13-a909-8fdbd91247ef" />
 
