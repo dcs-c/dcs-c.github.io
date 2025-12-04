@@ -44,7 +44,7 @@ AGM-65 Maverick 통칭 매버릭은 약 7~15마일 정도의 사거리를 가진
 
 <img width="1848" height="1149" alt="image" src="https://github.com/user-attachments/assets/357a34cd-e1f6-471a-80c3-e0bfa54aebf9" />
 
-> 이후 매버릭 센서화면 쪽으로 SOI 후 C키를 눌러주면 매버릭이 타겟팅포드와 같은곳을 바라보게되며 이는 HUD에서도 확인이 가능하다 이후 최대사거리로 접근하게 되면 HUD에 남은 시간이 0초가 되며 IN RNG 큐가 뜨는데 이때 사격하면 되고 레이저 유도 폭탄과 마찬가지로 타겟팅포드가 타겟을 계속 바라보고 레이징을 할 수 있게 유도해줘야한다
+> 이후 매버릭 센서화면 쪽으로 SOI 후 C키를 눌러주면 매버릭이 타겟팅포드와 같은곳을 바라보게되며 이는 HUD에서도 확인이 가능하다 이후 최대사거리로 접근하게 되면 HUD에 남은 시간이 0초가 되며 IN RNG 큐가 뜨는데 이때 Weapon release 버튼을 2회(첫번째 누름으로 레이징 활성화, 두번째 누름으로 매버릭 발사) 눌러 사격해준다 이때 레이저 유도 폭탄과 마찬가지로 타겟팅포드가 타겟을 계속 바라보고 레이징을 할 수 있게 각도 조절을 해줘야한다
 
 <img width="1683" height="1170" alt="image" src="https://github.com/user-attachments/assets/0b5599ee-ee6f-48ad-a347-2c1efd7564ef" />
 <img width="1903" height="1030" alt="image" src="https://github.com/user-attachments/assets/5064ffca-f655-42c9-ae9a-937f188c835b" />
@@ -52,12 +52,12 @@ AGM-65 Maverick 통칭 매버릭은 약 7~15마일 정도의 사거리를 가진
 <img width="1094" height="719" alt="image" src="https://github.com/user-attachments/assets/0a81f533-618d-47b5-8d39-754d68ec445d" />
 <img width="1568" height="1185" alt="image" src="https://github.com/user-attachments/assets/15187038-b9fc-424c-9636-1d5c12b0de84" />
 
+물론 함선 타격도 같은 방법으로 사격하면된다
+
 <img width="1822" height="1190" alt="image" src="https://github.com/user-attachments/assets/2d9579ce-7ef5-4202-a67d-5ab04107d639" />
 <img width="1461" height="937" alt="image" src="https://github.com/user-attachments/assets/eeb47711-f431-4e21-aa3f-9e50da3ae21d" />
 <img width="1276" height="952" alt="image" src="https://github.com/user-attachments/assets/d047fd1e-b9aa-4943-91e5-f1c9aa5e9c18" />
 <img width="2220" height="1307" alt="image" src="https://github.com/user-attachments/assets/67545934-4efb-41e7-aef5-33368bd2ed1b" />
-
-> 물론 함선 타격도 같은 방법으로 사격하면된다
 
 ## AGM-65F 사용법
 
