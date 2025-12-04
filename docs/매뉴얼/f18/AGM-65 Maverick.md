@@ -56,6 +56,7 @@ AGM-65 Maverick 통칭 매버릭은 약 7~15마일 정도의 사거리를 가진
 <img width="1461" height="937" alt="image" src="https://github.com/user-attachments/assets/eeb47711-f431-4e21-aa3f-9e50da3ae21d" />
 <img width="1276" height="952" alt="image" src="https://github.com/user-attachments/assets/d047fd1e-b9aa-4943-91e5-f1c9aa5e9c18" />
 <img width="2220" height="1307" alt="image" src="https://github.com/user-attachments/assets/67545934-4efb-41e7-aef5-33368bd2ed1b" />
+
 > 물론 함선 타격도 같은 방법으로 사격하면된다
 
 ## AGM-65F 사용법
