@@ -111,7 +111,7 @@ AGM-84 SLAM은 Stand off Attack Missle로 줄여서 통칭 슬램이라고 부�
 
 >> POSN : 경유 할 좌표 직접 입력
 
->> ELEV : 직접 고도 입력
+>> ALT : 직접 고도 입력
 
 >> DEL : 스티어포인트 삭제
 
