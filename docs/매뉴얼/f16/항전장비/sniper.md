@@ -48,98 +48,34 @@ Sniper Advanced Targeting Pod는 F-16C가 목표를 탐지하고 레이저 유�
 - BORE : 정면 초기화
 (TGP 화면과 화면에 뜨는 옵션들을 레이블한 사진 삽입)
 
-표시 정보
 
-상단: 트래킹 상태(AREA/POINT/INR), 줌 배율
+## HOTAS 핵심 조작
+### SOI 설정
+- DMS Down → 해당 MFD를 SOI로 설정
 
-좌측: LOS 좌표, 거리
 
-하단: 레이저 상태(L ARM / LASE)
 
-4. HOTAS 핵심 조작
-SOI 설정
+### TDC Slew
+- 조준점 이동
 
-DMS Down Long → 해당 MFD를 SOI로 설정
 
-Slew
 
-조준점 이동(표적 탐색의 기본)
+### TMS 조작
+- TMS Up Short : 트래킹 시도(AREA → POINT)
+- TMS Up Long : SPI 생성
+- TMS Down : 추적 해제(INR 복귀)
+- TMS Right : 추적 모드 강제 전환
+- TMS Left : TV, WHITE HOT, BLACK HOT 전환
 
-TMS 조작
+### RNG knob
+- 천천히 확대, 축소
 
-TMS Up Short : 트래킹 시도(AREA → POINT)
+### FOV(핑키 스위치)
+-FOV 전환
+### 레이저
+- Gun trigger 1단계(First Detent): 레이저 수동 조사
 
-TMS Up Long : SPI 생성
-
-TMS Down : 추적 해제(INR 복귀)
-
-TMS Right : 추적 모드 강제 전환
-
-레이저 트리거
-
-1단계(First Detent): 레이저 조사
-
-유지: 지속 조사(LASE)
-
-5. 표적 탐지 기본 절차
-
-A/G 모드
-
-TGP 페이지 SOI 설정
-
-Wide FOV로 지역 스캔
-
-Slew로 목표 방향 이동
-
-Narrow FOV 확대
-
-TMS Up → AREA Lock
-
-이동 표적이면 TMS Up 반복 → POINT Lock
-
-6. AREA / POINT 트랙 상세
-AREA Track
-
-지형 기반 고정
-
-건물·고정 표적에 유리
-
-흔들림 적음
-
-POINT Track
-
-열/영상 기반 표적 인식
-
-차량 등 이동 표적에 최적
-
-고배율에서 효과적
-
-팁
-
-탐색 → AREA
-
-공격 → POINT
-
-7. 레이저 코드 설정
-UFC 설정 절차
-
-UFC → LIST
-
-0. MISC
-
-LASR 메뉴
-
-LTD/R, LST 코드 입력(기본 1688)
-
-레이저 사용 규칙
-
-L ARM 켜야 레이저 가능
-
-LGB 투하 후 8~12초 전부터 LASE 시작
-
-매우 가까워지면 유도 실패 위험
-
-8. LSS / LST 기능
+### LSS / LST 기능
 LSS (Laser Spot Search)
 
 외부에서 비춘 레이저를 탐색
