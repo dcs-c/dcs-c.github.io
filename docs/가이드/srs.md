@@ -7,8 +7,10 @@ https://github.com/ciribob/DCS-SimpleRadioStandalone/releases 에서 ``SRS-AutoU
 * DCS 내 VoIP 키 할당 해제
 * ``Controls``/``Radio 1``, ``Radio 2``에 VHF/UHF Push To Talk 에 사용할 키 할당
 * ``Settings``/``Radio work as Push To Talk``을 ``ON``으로 전환
-* 수신되는 소리가 너무 노이즈가 심하다면
-    * ``Settings``/``Enable Ambient Cockpit Effects`` 및 ``Enable Ambient Intercom Effects``을 ``Off``로 전환
+* 수신되는 소리가 너무 노이즈가 심하다면 아래 설정을 ``Off``로 전환
+    * ``Settings``/``Enable Ambient Cockpit Effects``
+    * ``Settings``/``Enable Ambient Intercom Effects``
+* SRS에 설정한 키를 디스코드상의 ``눌러서 마이크 끄기`` 단축키로 설정하면 테스트 및 각종 상황에 혼란이 덜함
 
 ## SRS 사용
 * SRS를 켠 상태로 서버 입장
