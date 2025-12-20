@@ -1,4 +1,4 @@
-# F/A-18C Lot 20
+# F/A-18C Lot 20 Hornet
 
 ## 기체 소개
 
