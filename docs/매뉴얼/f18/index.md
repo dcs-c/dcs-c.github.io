@@ -45,6 +45,6 @@ F/A-18C 레거시 호넷 단좌형은 DCS 내 대표적인 함재기이며 성�
 * [AGM-84D Harpoon](/docs/매뉴얼/f18/AGM-84D%20Harpoon.md)
 * [AGM-84E/H SLAM(ER)](/docs/매뉴얼/f18/AGM-84E/H%20SLAM(ER).md)
 * [AGM-65 Maverick](/docs/매뉴얼/f18/AGM-65%20Maverick.md)
-* [AN/AWW-13 무장데이터링크포드](/docs/매뉴얼/f18/AN/AWW-13%20무장데이터링크포드.md)
+* [AN/AWW-13 무장데이터링크포드](/docs/매뉴얼/f18/무장데이터링크포드.md)
 * [기총(공대공)](/docs/매뉴얼/f18/기총(공대공).md)
 * [AIM-7 Sparrow](/docs/매뉴얼/f18/AIM-7%20Sparrow.md)
