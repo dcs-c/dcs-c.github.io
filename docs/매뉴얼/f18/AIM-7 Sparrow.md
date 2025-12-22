@@ -49,11 +49,9 @@ AIM-7 Sparrow, 통칭 스페로우 라고 불리는 중거리 공대공 미사�
 
 > 5. 레이더에 탐지된 기체 표시다
 >> - 해당 표시에 TDC를 통해 마우스를 갖다 대면 락온 할 수 있다
-
 >> <img width="487" height="477" alt="image" src="https://github.com/user-attachments/assets/0aee023d-03eb-4da4-9ac1-18e2de1977fe" />
 
 >> - 레이더 락온된 모습, 락온된 표식 양쪽으로 노란색 글씨로 0.5와 14가 표시되는데 이는 탐지되고 락온된 기체가 마하 0.5에 고도 1만4천피트를 날고 있다는 뜻이다
-
 >> <img width="363" height="80" alt="image" src="https://github.com/user-attachments/assets/076251b9-f3a5-4fff-b932-5f6d1a2ef508" />
 
 >> - 또한 표식 위 모양을 통해 해당 항적의 정보가 어떤지 알 수 있다 ( 출처: 1전비 카페 )
