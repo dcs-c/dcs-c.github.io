@@ -126,4 +126,4 @@ TOO모드는 함의 레이더 시커를 이용하여 적을 직접 락온하여 
 <img width="1538" height="1069" alt="image" src="https://github.com/user-attachments/assets/9f240089-f42c-475b-8415-7b8b902f243d" />
 <img width="1549" height="1281" alt="image" src="https://github.com/user-attachments/assets/a38bb199-6ea4-42dd-83a8-4f3a472798e4" />
 
-> 함 자체가 상승하여 타격하기 때문에 기체의 속도가 줄어들지 않아 회피나 방어기동이 수월한 모습, 이후 자체 상승한 함이 적 레이더를 파괴한다
+> 사거리는 A/C로 발사했을때보다 훨씬 짧아졌지만 함 자체가 상승하여 타격하기 때문에 기체의 속도가 줄어들지 않아 회피나 방어기동이 수월한 모습, 이후 자체 상승한 함이 적 레이더를 파괴한다
