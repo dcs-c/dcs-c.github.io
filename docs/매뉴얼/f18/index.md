@@ -52,4 +52,3 @@ F/A-18C 레거시 호넷 단좌형은 DCS 내 대표적인 함재기이며 성�
 * [AIM-9 Sidewinder](/docs/매뉴얼/f18/AIM-9%20Sidewinder.md)
 * [AIM-120 Amrram](/docs/매뉴얼/f18/AIM-120%20Amrram.md)
 * [착함](/docs/매뉴얼/f18/착함.md)
-* [공중급유](/docs/매뉴얼/f18/공중급유.md)
