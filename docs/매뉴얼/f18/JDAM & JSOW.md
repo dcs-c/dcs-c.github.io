@@ -38,7 +38,7 @@
 
 <img width="2407" height="1246" alt="image" src="https://github.com/user-attachments/assets/ac23ee45-65a4-4136-9bf3-41c7da8bac23" />
 
-> 우선 적의 정확한 좌표를 추출한다 
+> 우선 적의 정확한 도분초 상세 좌표를 추출한다 
 
 <img width="680" height="512" alt="스크린샷 2025-11-28 104948" src="https://github.com/user-attachments/assets/a706a30e-db0c-4bda-97d4-a247505436cd" />
 
