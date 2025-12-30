@@ -1,4 +1,4 @@
-# AIM-120 Amrram
+# AIM-120 AMRRAM
 
 ## 개요
 
