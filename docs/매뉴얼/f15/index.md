@@ -1,3 +1,6 @@
+---
+title: F-15E
+---
 # 개요
 <img width="3840" height="2160" alt="F-15E 선전" src="https://github.com/user-attachments/assets/9ef39687-bbfe-4d16-8e8d-79b40626c065" />
 <img width="1610" height="1125" alt="image" src="https://github.com/user-attachments/assets/cd824487-223a-4d7f-8ec8-22b4e3ad3392" />
