@@ -1,4 +1,11 @@
 # 스탠드오프 폭탄
+먼 거리에서 목표를 향해 투하한 뒤 위험 지역을 곧바로 벗어날 수 있는 폭탄.
+
+## 종류
+
+* [JDAM](/매뉴얼/f16/공대지/jdam) - Joint Direct Attack Munition, 합동 직격 유도탄
+* [JSOW](/매뉴얼/f16/공대지/jsow) - Joint Standoff Weapon, 합동 스탠드오프 무장
+* [WCMD 클러스터](/매뉴얼/f16/공대지/clusters) - Wind Corrected Munitions Dispenser, 바람 보정 유도 디스펜서
 
 ## 준비
 
