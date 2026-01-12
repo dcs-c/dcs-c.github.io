@@ -12,7 +12,7 @@ Sniper Advanced Targeting Pod는 F-16C가 목표를 탐지하고 레이저 유�
 ### 라이트닝 포드에 비해 좋은 점
 - 훨씬 높은 배율
 - 멀티트레킹을 포함한 다양한 기능
-- 훨씬 낮은 항력
+- 낮은 항력
 ### 라이트닝 포드에 비해 안좋은 점
 - 복잡한 조작
 - 특정 조건이 만족되지 않으면 잡히지 않는 초점
@@ -72,6 +72,7 @@ Sniper Advanced Targeting Pod는 F-16C가 목표를 탐지하고 레이저 유�
 
 ### FOV(핑키 스위치)
 -FOV 전환
+
 ### 레이저
 - Gun trigger 1단계(First Detent): 레이저 수동 조사
 
