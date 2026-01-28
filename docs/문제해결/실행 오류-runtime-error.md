@@ -98,7 +98,7 @@ C:\Users<User Name>\Saved Games\DCS\Mods\
 (FAQ 페이지 참고) 
 
 
-# DCS World (1.5.x, 2.5.x)가 시작 시 멈춥니다 합니다
+# DCS World (1.5.x, 2.5.x)가 시작 시 멈춥니다
 
 또는
 
