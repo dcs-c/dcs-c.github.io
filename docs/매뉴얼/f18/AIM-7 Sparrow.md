@@ -22,6 +22,7 @@ AIM-7 Sparrow, 통칭 스페로우 라고 불리는 중거리 공대공 미사�
 <img width="599" height="559" alt="스크린샷 2025-12-22 134622" src="https://github.com/user-attachments/assets/6a97955c-c1e8-4a44-9f3a-08ec464cfc39" />
 
 > 1. 레이더의 스캔 바를 의미한다
+
 >> <img width="455" height="291" alt="image" src="https://github.com/user-attachments/assets/89cfffcc-dbe1-4686-b538-8474a3d8de23" />
 
 >> - 1B, 2B, 4B, 6B등이 있으며 숫자가 높을 수록 레이더가 수색 패턴을 늘려가며 더 넓게 움직이며 스캔한다 덕분에 더 넓은 범위의 스캔이 가능하지만 왔다갔다 하는 시간이 길기때문에 한번 포착된 적이 이동하여 레이더 탐지가 어려운 곳으로 가버리면 레이더 락이 끊겨버리기도 하니 상황에 따라서 조절해서 사용해야한다
@@ -32,6 +33,7 @@ AIM-7 Sparrow, 통칭 스페로우 라고 불리는 중거리 공대공 미사�
 
 > 3. 레이더 탐색 거리다
 >> - 5.10.20,40,80,160마일의 거리로 조절 할 수 있다
+
 >> <img width="552" height="502" alt="스크린샷 2025-12-22 141238" src="https://github.com/user-attachments/assets/f46237be-23c7-4cc8-b462-4915c5aff3d4" />
 
 >> - 예를 들어 80마일로 설정시 레이더 사각형 좌우측 짧은 수평선을 기준으로 0,20,40,60,80마일로 레이더로 스캔된 적의 거리를 알 수 있다
@@ -46,9 +48,11 @@ AIM-7 Sparrow, 통칭 스페로우 라고 불리는 중거리 공대공 미사�
 
 > 5. 레이더에 탐지된 기체 표시다
 >> - 해당 표시에 TDC를 통해 마우스를 갖다 대면 락온 할 수 있다
+
 >> <img width="487" height="477" alt="image" src="https://github.com/user-attachments/assets/0aee023d-03eb-4da4-9ac1-18e2de1977fe" />
 
 >> - 레이더 락온된 모습, 락온된 표식 양쪽으로 노란색 글씨로 0.5와 14가 표시되는데 이는 탐지되고 락온된 기체가 마하 0.5에 고도 1만4천피트를 날고 있다는 뜻이다
+
 >> <img width="363" height="80" alt="image" src="https://github.com/user-attachments/assets/076251b9-f3a5-4fff-b932-5f6d1a2ef508" />
 
 >> - 또한 표식 위 모양을 통해 해당 항적의 정보가 어떤지 알 수 있다 ( 출처: 1전비 카페 )
