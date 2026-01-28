@@ -172,7 +172,7 @@ PSU는 그래픽 카드 설명에 명시된 요구 전력보다 더 높은 출�
 
 BIOS에 Above 4G Decoding이라는 옵션이 있으며,
 (없을 가능성도 있으니 유의)
-이를 활성화하여 문제를 해결할 수 있는 경우 **도**있음
+이를 활성화하여 문제를 해결할 수 있는 경우 **도** 있음
 
 https://biosgid.ru/parametry-bios-setup/parametry-chipseta/above-4g-decoding.html
 
