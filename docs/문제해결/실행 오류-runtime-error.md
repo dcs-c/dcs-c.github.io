@@ -55,7 +55,7 @@ Microsoft 웹사이트에 있는 동일한 파일:
 
 Visual C++ Redistributable for Visual Studio 2017 (64-bit)
 
-출처: https://www.digitalcombatsimulator.com/en/support/faq/startup/
+출처: (https://www.digitalcombatsimulator.com/en/support/faq/startup/)
 
 
 # 위 사항이 해결이 안됐을 경우
@@ -72,8 +72,8 @@ MSVCR120.dll 또는 VCRUNTIME140.dll이 없을 경우엔
 또한 Microsoft 웹사이트에서 다운로드할 수도 있으니 걱정 ㄴㄴ
 
 
-https://support.microsoft.com/en-us/help/3179560/update-for-visual-c-2013-and-visual-c-redistributab
-...
+(https://support.microsoft.com/en-us/help/3179560/update-for-visual-c-2013-and-visual-c-redistributab
+...)
 
 **아직도 Windows 7을 사용 중이라면** Service Pack 1이 반드시 설치되어 있어야 됨.
 
@@ -81,7 +81,7 @@ VCRUNTIME140.dll의 경우:
 
 다음 링크에서 Microsoft Visual C++ 재배포 패키지 (x64) 를 다운로드하여 다시 설치하셈
 
-https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
+(https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 
 
 혹시 출시한 모듈에도 성이 안차서 모드 모듈을 사용하였나? 
@@ -138,7 +138,7 @@ DCS 그래픽 설정을 낮추어 중간(Medium) 또는 낮음(Low) 으로 설�
 (언더볼팅 관련 이야기 같은데 만약 9070XT 쓴다? 뒤져야지 그럼ㅋㅋ)
 
 MSI Afterburner 소프트웨어를 사용하여 그래픽 카드의 오버클럭 수치를 낮추기
-https://us.msi.com/page/afterburner
+(https://us.msi.com/page/afterburner)
 
 일부 사용자들은 Zotac의 FireStorm과 같은 제조사 유틸리티에서 제공하는
 공장 오버클럭으로도 문제를 겪은적이 있음
@@ -174,7 +174,7 @@ BIOS에 Above 4G Decoding이라는 옵션이 있으며,
 
 이를 활성화하여 문제를 해결할 수 있는 경우 **도** 있음
 
-https://biosgid.ru/parametry-bios-setup/parametry-chipseta/above-4g-decoding.html
+(https://biosgid.ru/parametry-bios-setup/parametry-chipseta/above-4g-decoding.html)
 
 BIOS 업데이트 역시 일부 경우에는 영향을 줄 수 있음.
 
@@ -183,9 +183,15 @@ BIOS 업데이트 역시 일부 경우에는 영향을 줄 수 있음.
 
 다른 해결 방법을 찾았다면,
 너도 여기에 글 써서 전세계 비붕이들에게 도움좀 줘라 :
-http://www.digitalcombatsimulator.com/en/support/
+(http://www.digitalcombatsimulator.com/en/support/)
 
-출처: DCS 공식 퓌럼 https://www.digitalcombatsimulator.com/en/support/faq/startup/
+출처: DCS 공식 퓌럼 (https://www.digitalcombatsimulator.com/en/support/faq/startup/)
+
+# 약간 극단적인 방법
+
+1. DCS가 설치되어있는 SSD 자체를 포맷시킨다.
+
+방법은 간단하니 이미지로 설명하겠다.
 
 
 다 귀찮다?
