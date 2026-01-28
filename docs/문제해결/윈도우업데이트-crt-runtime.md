@@ -1,4 +1,4 @@
-![](https://dcimg1.dcinside.com/viewimage.php?id=3fb2d8&no=24b0d769e1d32ca73de886fa06c3233ca6300f621a5ba0c89eef56b67eb3f3beb72a25f6afd38803cd2cd44e94c715d29a50c2f8fcd68035ad5f124d)
+![https://dcimg1.dcinside.com/viewimage.php?id=3fb2d8&no=24b0d769e1d32ca73de886fa06c3233ca6300f621a5ba0c89eef56b67eb3f3beb72a25f6afd38803cd2cd44e94c715d29a50c2f8fcd68035ad5f124d](https://dcimg1.dcinside.com/viewimage.php?id=3fb2d8&no=24b0d769e1d32ca73de886fa06c3233ca6300f621a5ba0c89eef56b67eb3f3beb72a25f6afd38803cd2cd44e94c715d29a50c2f8fcd68035ad5f124d)
 예아 반갑노. 신바람 노박사다 익이
 오늘따라 명방 엔드필드가 아닌 DCS를 하고싶어 게임을 켰는데
 
@@ -6,7 +6,7 @@
 
 **?**
 
-![](https://dcimg1.dcinside.com/viewimage.php?id=2bb2c23ce4da37b467a5d9bb&no=24b0d769e1d32ca73feb85fa11d02831b3f3a5b77d2b2273808dfa809ebd3b5f26e0d3933e07b0720a6fd1b0af68991b6b6c04a3746d93ac51ba5f48e308f551822e64e9756e1ab9)
+![https://dcimg1.dcinside.com/viewimage.php?id=2bb2c23ce4da37b467a5d9bb&no=24b0d769e1d32ca73feb85fa11d02831b3f3a5b77d2b2273808dfa809ebd3b5f26e0d3933e07b0720a6fd1b0af68991b6b6c04a3746d93ac51ba5f48e308f551822e64e9756e1ab9]
 
 화면이 하얗게 질러버리다 못해 어둑해진것이 꼭 2009년 5월 22일날 꿨던 꿈 같노...
 그렇기에 오늘은 이 문제를 해결할수 있는 몆가지 해결책을 제시 해볼까 합니노.
