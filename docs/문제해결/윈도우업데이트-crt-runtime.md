@@ -1,5 +1,6 @@
 
 예아 반갑노. 신바람 노박사다 익이
+
 오늘따라 명방 엔드필드가 아닌 DCS를 하고싶어 게임을 켰는데
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVgIdOBpLiB0vjFMQgktShQQEpRCoWvdMTGg&s)
@@ -9,6 +10,7 @@
 
 
 화면이 하얗게 질러버리다 못해 어둑해진것이 꼭 2009년 5월 22일날 꿨던 꿈 같노...
+
 그렇기에 오늘은 이 문제를 해결할수 있는 몆가지 해결책을 제시 해볼까 합니노.
 
 **야 기분좋다!!** 를 한번 외치고 시작 해보자 익이.
