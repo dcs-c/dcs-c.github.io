@@ -1,16 +1,32 @@
-# 윈도우 업데이트 후 검은화면 문제
-만약 이 문제가 발생하기 전에는 게임을 실행할 수 있었다면, 다음을 수행하라
+![]https://dcimg1.dcinside.com/viewimage.php?id=3fb2d8&no=24b0d769e1d32ca73de886fa06c3233ca6300f621a5ba0c89eef56b67eb3f3beb72a25f6afd38803cd2cd44e94c715d29a50c2f8fcd68035ad5f124d
+예아 반갑노. 신바람 노박사다 익이
+오늘따라 명방 엔드필드가 아닌 DCS를 하고싶어 게임을 켰는데
 
-사용자 폴더에 있는 DCS 폴더의 이름을 Temp로 변경한 후
+![]https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVgIdOBpLiB0vjFMQgktShQQEpRCoWvdMTGg&s
+
+**?**
+
+![]https://dcimg1.dcinside.com/viewimage.php?id=2bb2c23ce4da37b467a5d9bb&no=24b0d769e1d32ca73feb85fa11d02831b3f3a5b77d2b2273808dfa809ebd3b5f26e0d3933e07b0720a6fd1b0af68991b6b6c04a3746d93ac51ba5f48e308f551822e64e9756e1ab9
+
+화면이 하얗게 질러버리다 못해 어둑해진것이 꼭 2009년 5월 22일날 꿨던 꿈 같노...
+그렇기에 오늘은 이 문제를 해결할수 있는 몆가지 해결책을 제시 해볼까 합니노.
+
+**야 기분좋다!!** 를 한번 외치고 시작 해보자 익이.
+
+# 윈도우 업데이트 후 검은화면 문제
+만약 이 문제가 발생하기 전에는 게임을 실행할 수 있었다면, **이제 고칠 시간이다.**
+다음 진행과정을 한번 수행해보자
+
+사용자 폴더에 있는 DCS 폴더의 이름을 **Temp** 로 변경한 후
 DCS 게임을 다시 켜보셈
 
 경로:
-C:\Users\User Name\Saved Games..
+**C:\Users\User Name\Saved Games..**
 
-api-ms-win-crt-runtime-l1-1-0.dll 누락으로 인해 DCS World를 실행할 수 없을꺼임(아마도)
+api-ms-win-crt-runtime-l1-1-0.dll 누락으로 인해 DCS World를 실행할 수 없을꺼다.(아마도)
 
-이 문제는 Visual Studio 2015용 Visual C++ 재배포 패키지의 일부인
-KB2999226 (Universal CRT) 가 설치 하다가 부엉이 바위에서 뛰어내려서 그럼. (설치실패)
+이 문제는 *Visual Studio 2015용 Visual C++* 재배포 패키지의 일부인
+KB2999226 (Universal CRT) 가 설치 하다가 부엉이 바위에서 뛰어내려서 그렇다. (설치실패)
 
 해결 방법
 Windows 업데이트 설치
