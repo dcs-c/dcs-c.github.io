@@ -46,33 +46,38 @@ Windows 업데이트 설치
 Visual C++ Redistributable 2017 설치
 
 DCS 설치 폴더에 있는 다음 파일 실행:
+
 (DCS_INSTALL_DIR)/distr/vc_redist.x64.exe
 
 Microsoft 웹사이트에 있는 동일한 파일:
+
 Visual C++ Redistributable for Visual Studio 2017 (64-bit)
 
 출처: https://www.digitalcombatsimulator.com/en/support/faq/startup/
+
+
 위 사항이 해결이 안됐을 경우
 
-MSVCR120.dll 또는 VCRUNTIME140.dll이 컴퓨터에 없습니다
-MSVCR120.dll의 경우:
+MSVCR120.dll 또는 VCRUNTIME140.dll이 없을 경우엔
 
-설치된 DCS 안에서 Visual Studio 2013용 Visual C++ 재배포 패키지를 찾을 수 있습니다.
+설치된 DCS 안에서 Visual Studio 2013용 Visual C++ 재배포 패키지를 찾을 수 있음
 
 경로:
 
-DCS World\distr\vcredist_x64.exe
+**DCS World\distr\vcredist_x64.exe**
 
 
-또한 Microsoft 웹사이트에서 다운로드할 수도 있습니다.
+또한 Microsoft 웹사이트에서 다운로드할 수도 있으니 걱정 ㄴㄴ
+
+
 https://support.microsoft.com/en-us/help/3179560/update-for-visual-c-2013-and-visual-c-redistributab
 ...
 
-아직도 Windows 7을 사용 중이라면 Service Pack 1이 반드시 설치되어 있어야 합니다.
+**아직도 Windows 7을 사용 중이라면** Service Pack 1이 반드시 설치되어 있어야 됨.
 
 VCRUNTIME140.dll의 경우:
 
-다음 링크에서 Microsoft Visual C++ 재배포 패키지 (x64) 를 다운로드하여 다시 설치하십시오.
+다음 링크에서 Microsoft Visual C++ 재배포 패키지 (x64) 를 다운로드하여 다시 설치하셈
 
 https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
 Update for Visual C++ 2013 and Visual C++ Redistributable Package -...
@@ -80,29 +85,37 @@ Fixes a problem in which a program that you build by using Microsoft Visual C++ 
 Latest supported Visual C++ Redistributable downloads
 This article provides download links for the latest Visual C++ Redistributable packages.
 Latest supported Visual C++ Redistributable downloads
+
+
 또는
 
 님 DCS에 모드 깔고 하다가 화면 앰흑됨? ㅋㅋ ㅄ
 
-다음 경로에서 모든 비공식 모드(unofficial mods)를 삭제하십시오.
+다음 경로에서 모든 비공식 모드(unofficial mods)를 삭제하셈
 
 C:\Users<User Name>\Saved Games\DCS\Mods\
 
 
-그 다음 Cleanup 및 Repair를 실행하십시오.
+그 다음 Cleanup 및 Repair를 실행하면됨
+
 (FAQ 페이지 참고) 
+
+
 또는
-DCS World (1.5.x, 2.5.x)가 시작 시 운지 합니다( 실행 불가 )
+DCS World (1.5.x, 2.5.x)가 시작 시 멈춥니다 합니다( 실행 불가 )
 
 검은 화면이 나타난 후 파악 꼬라박습니다 ( 충돌 )
+
 ㄴ님 그래픽 카드 DirectX 11을 지원함? 안해? 에반데; 
 
-dcs.log에 DXGI_ERROR_DEVICE_REMOVED 오류가 기록되며 게임이 운지하는 경우
+ㄴ이런 경우엔 다이렉트 11 지원하는 글카로 바꿔야됨.(DCS 최소사양)
+
+dcs.log에 DXGI_ERROR_DEVICE_REMOVED 오류가 기록되며 게임이 충돌하는 경우
 
 대부분의 경우 이는 그래픽 카드 또는 그래픽 드라이버와 관련된 하드웨어 문제
 
 이 오류에 대한 많은 힌트와 해결 방법은 인터넷에서 찾을 수 있으며,
-다음 키워드로 검색해 쓰냐:
+다음 키워드로 검색하면됨:
 DXGI_ERROR_DEVICE_REMOVED
 
 온라인에서 레지스트리 편집 관련 팁을 찾을 수는 있지만,
@@ -113,6 +126,7 @@ DXGI_ERROR_DEVICE_REMOVED
 DCS 그래픽 설정을 낮추어 중간(Medium) 또는 낮음(Low) 으로 설정한 후 게임 플레이를 확인
 
 다중모니터 설정을 사용 중이라면 눈깔 수를 줄여야 할 수도 있음
+(다중모니터 설정을 모니터 1개로만 주사할수 있도록 설정 변경을 요구함.)
 
 그래픽 드라이버 설정에 대해 공장 초기화(Factory reset) 를 수행 하는것이 중요함.
 (모든 사용자 설정과 프로필을 기본값으로 복원, 쉽게 말하자면 트럭에 치여서 리제로부터 시작하는 글카생활 하는거임)
@@ -156,11 +170,12 @@ PSU는 그래픽 카드 설명에 명시된 요구 전력보다 더 높은 출�
 추가 하드웨어 점검 방법
 
 메인보드의 다른 PCI-E 슬롯으로 그래픽 카드를 옮겨 장착해 보면
-문제 진단에 도움이 될 " 수 " 있음.
+문제 진단에 도움이 될 **수** 있음.
 
 BIOS에 Above 4G Decoding이라는 옵션이 있으며,
 (없을 가능성도 있으니 유의)
-이를 활성화하여 문제를 해결할 수 있는 경우 " 도 " 있음
+이를 활성화하여 문제를 해결할 수 있는 경우 **도**있음
+
 https://biosgid.ru/parametry-bios-setup/parametry-chipseta/above-4g-decoding.html
 
 BIOS 업데이트 역시 일부 경우에는 영향을 줄 수 있음.
@@ -171,11 +186,10 @@ BIOS 업데이트 역시 일부 경우에는 영향을 줄 수 있음.
 다른 해결 방법을 찾았다면,
 너도 여기에 글 써서 전세계 비붕이들에게 도움좀 줘라 :
 http://www.digitalcombatsimulator.com/en/support/
-Ваш гид по настройкам BIOS
-TechGid
-Above 4G Decoding
-Above 4G Decoding(декодирование свыше 4 ГБ) - предназначена для настройки параметров работы 64-битных графических ускорителей, подключаемых к шине PCI-Express.
+
 출처: DCS 공식 퓌럼 https://www.digitalcombatsimulator.com/en/support/faq/startup/
+
+
 다 귀찮다?
 
 
