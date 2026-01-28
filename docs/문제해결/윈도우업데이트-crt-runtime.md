@@ -13,7 +13,7 @@
 
 아니 시발
 
-![https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxSiEyE9WJNrR3-K7jnqELfhOmvooKoj6Ymw&s]
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxSiEyE9WJNrR3-K7jnqELfhOmvooKoj6Ymw&s)
 
 이런 사유로 인해 이번 글을 적게 되었다 이거임.
 그럼 이제 우리 같이 하체 장애인 -그새끼-의 계략에서 벗어날 해결책을 함께 실행해보자.
