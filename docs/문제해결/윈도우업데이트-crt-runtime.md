@@ -15,14 +15,15 @@
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxSiEyE9WJNrR3-K7jnqELfhOmvooKoj6Ymw&s)
 
-이런 사유로 인해 이번 글을 적게 되었다 이거임.
-그럼 이제 우리 같이 하체 장애인 -그새끼-의 계략에서 벗어날 해결책을 함께 실행해보자.
+이런 사유로 인해 이번 글을 적게 되었다.
+
+그럼 이제 우리 같이 하체 장애인 -그새끼-의 계략에서 벗어날 해결책을 함께 해보자.
 
 # 윈도우 업데이트 후 검은화면 문제
 
 
 사용자 폴더에 있는 DCS 폴더의 이름을 **Temp** 로 변경한 후
-DCS 게임을 다시 켜보셈
+DCS 게임을 다시 켜보자
 
 경로:
 **C:\Users\User Name\Saved Games..**
@@ -30,7 +31,7 @@ DCS 게임을 다시 켜보셈
 api-ms-win-crt-runtime-l1-1-0.dll 누락으로 인해 DCS World를 실행할 수 없을꺼다.(아마도)
 
 이 문제는 *Visual Studio 2015용 Visual C++* 재배포 패키지의 일부인
-KB2999226 (Universal CRT) 가 설치 하다가 부엉이 바위에서 뛰어내려서 그렇다. (설치실패)
+KB2999226 (Universal CRT) 가 설치 하다가 실패해서 그렇다. (설치실패)
 
 해결 방법
 Windows 업데이트 설치
@@ -82,16 +83,11 @@ VCRUNTIME140.dll의 경우:
 다음 링크에서 Microsoft Visual C++ 재배포 패키지 (x64) 를 다운로드하여 다시 설치하셈
 
 https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
-Update for Visual C++ 2013 and Visual C++ Redistributable Package -...
-Fixes a problem in which a program that you build by using Microsoft Visual C++ 2013 crashes and you receive an "Illegal Instruction" exception.
-Latest supported Visual C++ Redistributable downloads
-This article provides download links for the latest Visual C++ Redistributable packages.
-Latest supported Visual C++ Redistributable downloads
 
 
-또는
+혹시 출시한 모듈에도 성이 안차서 모드 모듈을 사용하였나? 
 
-님 DCS에 모드 깔고 하다가 화면 앰흑됨? ㅋㅋ ㅄ
+혹시 그 모듈이 이 현상의 주요 원인으로 의심된다?
 
 다음 경로에서 모든 비공식 모드(unofficial mods)를 삭제하셈
 
