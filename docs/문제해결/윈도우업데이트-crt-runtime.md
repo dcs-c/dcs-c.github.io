@@ -2,7 +2,7 @@
 예아 반갑노. 신바람 노박사다 익이
 오늘따라 명방 엔드필드가 아닌 DCS를 하고싶어 게임을 켰는데
 
-![]https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVgIdOBpLiB0vjFMQgktShQQEpRCoWvdMTGg&s
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVgIdOBpLiB0vjFMQgktShQQEpRCoWvdMTGg&s)
 
 **?**
 
