@@ -7,8 +7,7 @@
 
 필자 또한 그러한 날이 있었다. 그래서 어서 즐기고픈 마음을 가지고 드슥을 켰는데
 
-![]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVgIdOBpLiB0vjFMQgktShQQEpRCoWvdMTGg&s](https://media.discordapp.net/attachments/1316387977106296912/1466055924144930907/02E62793-577E-4D8B-BE15-C10F3D9D313D.png?ex=697b5a7a&is=697a08fa&hm=804f1a21d2db3c5f605ba3636def979b242579ab466b21f257994b32ccf1983f&=&format=webp&quality=lossless&width=1522&height=856))
-
+![](https://media.discordapp.net/attachments/1316387977106296912/1466055924144930907/02E62793-577E-4D8B-BE15-C10F3D9D313D.png?ex=697b5a7a&is=697a08fa&hm=804f1a21d2db3c5f605ba3636def979b242579ab466b21f257994b32ccf1983f&=&format=webp&quality=lossless&width=1522&height=856)
 **?**
 
 아니 시발
