@@ -154,6 +154,7 @@ Nvidia 제어판의
 # 전원 공급 장치(PSU) 점검
 
 전원 공급 장치(PSU)와 콘센트 상태를 확인하는 것이 매우 중요합니다.
+
 ㄴ콘센트랑 선만 잘 꼽혀있담 이건 별 문제 없을꺼임
 
 PSU는 그래픽 카드 설명에 명시된 요구 전력보다 더 높은 출력 용량을 가져야 함.
@@ -172,6 +173,7 @@ PSU는 그래픽 카드 설명에 명시된 요구 전력보다 더 높은 출�
 
 BIOS에 Above 4G Decoding이라는 옵션이 있으며,
 (없을 가능성도 있으니 유의)
+
 이를 활성화하여 문제를 해결할 수 있는 경우 **도** 있음
 
 https://biosgid.ru/parametry-bios-setup/parametry-chipseta/above-4g-decoding.html
