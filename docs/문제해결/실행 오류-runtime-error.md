@@ -201,9 +201,16 @@ BIOS 업데이트 역시 일부 경우에는 영향을 줄 수 있음.
 
    1-3. ![](https://media.discordapp.net/attachments/1287774742756982805/1466185736754561259/82D605C8-4701-4F52-A301-4BC2F076B26D.png?ex=697bd360&is=697a81e0&hm=d2b01682951135a3a0a9943088071ffc4d8881620bebb6ded6dacb4d381c0222&=&format=webp&quality=lossless)
 
-   이중 파일 시스템이나 할당 단위의 크키같은건 어려우니 집어치우고, 그저 조신하게 시작만 누르면 된다.
+    이중 파일 시스템이나 할당 단위의 크키같은건 어려우니 집어치우고, 그저 조신하게 시작만 누르면 된다.
 
    만약 설명대로 했다면 모든것이 허무로 돌아간 자신의 SSD를 볼수 있을텐데, 그동한 함께 했던 기억은 싹 잊고 새출발 하면 된다.
+
+   1-4.
+
+   만약 좀더 확실한 방법으로 하고싶다면 C:\Users\username\Saved Games\DCS를 찾아서 DCS 파일을 날려버리자. 
+   
+   그러면 그동안 묵혀왔던 캐쉬들이 깡그리 날아가며 당신의 컴퓨터에 DCS란 악령은 더이상 남아있지 않게 된다.
+
 
 ## 2. 윈도우 포맷
 
@@ -280,11 +287,11 @@ BIOS 진입해서 USB로 부팅하기
 
 ASUS	DEL / F2
 
-MSI	DEL
+MSI / DEL
 
-GIGABYTE	DEL
+GIGABYTE / DEL
 
-ASRock	DEL
+ASRock / DEL
 
 노트북	F2 / F10 / F12
 
