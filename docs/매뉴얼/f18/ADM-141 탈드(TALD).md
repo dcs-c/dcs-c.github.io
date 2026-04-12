@@ -13,9 +13,13 @@ ADM-141 탈드는 Tactical Air Launched Decoy, 즉 전술 공중발사 기만체
 
 > 탈드는 2 3 7 8번 파일런에 장착 가능하며 한 파일런 당 최대 3발까지 장착이 가능하다
 
+---
+
 <img width="640" height="481" alt="image" src="https://github.com/user-attachments/assets/064b6a26-e527-465d-8770-070c60fcd063" />
 
 > 마스터 암 ON, A/G모드, 스토어 페이지에서 82P 선택후 Weapon release로 적 방공망을 향해 던지면된다
+
+---
 
 <img width="1569" height="1004" alt="스크린샷 2025-11-22 110510" src="https://github.com/user-attachments/assets/b09ec7d8-67da-4c4a-a2f0-fd8a2f1855cb" />
 <img width="2549" height="1298" alt="스크린샷 2025-11-22 110531" src="https://github.com/user-attachments/assets/1124e61c-6cb5-4d30-9386-fafbde98b0d8" />
