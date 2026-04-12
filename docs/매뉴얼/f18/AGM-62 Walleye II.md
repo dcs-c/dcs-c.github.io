@@ -13,15 +13,21 @@
 
 > AGM-62 Walleye II(통칭 월아이)는 2000파운드의 대형 폭탄이며 호넷의 2, 8번 파일런에만 장착이 가능하다
 
+---
+
 <img width="597" height="439" alt="image" src="https://github.com/user-attachments/assets/930bdb22-ab53-423b-8035-ffe8c7473192" />
 <img width="581" height="469" alt="image" src="https://github.com/user-attachments/assets/83010dfc-7ee4-4956-a307-2af1fa70276d" />
 
 > 마스터 암 ON, A/G모드, 스토어 화면에서 WEDL(월아이)를 선택한다, 월아이를 선택하면 기총 및 로켓에서 본 피퍼가 허드에 나타나있을 것이다
 
+---
+
 <img width="441" height="429" alt="스크린샷 2025-11-26 120014" src="https://github.com/user-attachments/assets/1ada9bba-a8d9-4ceb-adef-4e1c7c21cbc1" />
 <img width="431" height="415" alt="image" src="https://github.com/user-attachments/assets/d25fb5cf-a598-42b1-ae9a-12faad1aebcd" />
 
 > 이후 WEDL에 초록색 네모박스에 X가 쳐져있을텐데 한번더 WEDL를 누르면 스토어 화면이 다음 화면으로 넘어간다, 해당 화면은 월아이 자체 내장 렌즈 화면이다
+
+---
 
 <img width="431" height="415" alt="스크린샷 2025-11-26 120311" src="https://github.com/user-attachments/assets/c320682f-4558-4c72-9385-2cab7107dffb" />
 
@@ -35,6 +41,7 @@
 
 > 3. 2번 파일런과 8번 파일런의 월아이 중 어떤것을 사용할지 정하는 순환 버튼이다
 
+---
 
 <img width="1747" height="1166" alt="image" src="https://github.com/user-attachments/assets/9daaec9b-a7eb-4442-a2cd-76883aee2a8d" />
 
@@ -44,10 +51,13 @@
 
 >> <img width="534" height="490" alt="image" src="https://github.com/user-attachments/assets/d7bb49b0-e31b-4228-8c91-dca2b72fd1eb" />
 
+---
 
 <img width="463" height="465" alt="image" src="https://github.com/user-attachments/assets/270a071f-72eb-48e1-980d-05eb03699ff0" />
 
 > 이후 TDC를 이용해 월아이 렌즈를 조작해 적을 조준자 정사각형 안에 두어 월아이가 락온이 완료되면 RDY가 MFD, 월아이 화면에 표시되며 천천히 접근 후 투하하면된다
+
+---
 
 <img width="2270" height="1333" alt="image" src="https://github.com/user-attachments/assets/b0a1364b-2ffb-457f-812e-418a630e1c3b" />
 <img width="2083" height="1171" alt="스크린샷 2025-11-26 121759" src="https://github.com/user-attachments/assets/e263ff17-673c-412b-832a-eb3b9f1db1a8" />
@@ -66,14 +76,20 @@
 > 우선 원하는 타겟 근처의 좌표를 웨이포인트에 입력하여 타겟팅 포인트를 생성해준다
 >> - 물론 바로 타겟팅 포드를 이용해 타겟팅 포인트를 생성해도 된다, 타켓팅포드로 적을 찾아 락온을 하는 경우 TDC Depress 버튼을 눌러줘야 타겟팅 포인트가 생성되니 참고할것.
 
+---
+
 <img width="1573" height="1192" alt="image" src="https://github.com/user-attachments/assets/d5ff0ce9-c332-4595-830d-aace80244cf2" />
 <img width="1536" height="1191" alt="image" src="https://github.com/user-attachments/assets/299b0ba1-06c9-4eba-bb21-7574a5bd11ed" />
 
 > 이후 좌측 월아이 화면에 SOI 시킨후 언케이지를 해주면 월아이 카메라 렌즈의 락이 풀리며 타겟팅포드와 같은 곳을 바라보게 된다, 이는 허드에서도 피퍼와 타겟팅포인트(마름모)를 통해서도 확인 할 수 있다
 
+---
+
 <img width="1334" height="1128" alt="스크린샷 2025-11-26 123035" src="https://github.com/user-attachments/assets/7699638e-8ad4-4a38-a1d7-bc3ec6414a6d" />
 
 > 타겟팅 포인트를 향해 지속적으로 날아가다 보면 월아이가 타겟팅포인트 근처의 적을 찾아 락온 후 RDY표시가 뜨며 허드에는 투하 최대거리까지의 잔여 시간이 표시된다 잔여 시간이 0이 된 이후 조금의 여유를 둬 한 1초 뒤에 투하하면 적에게 명중하게 된다
+
+---
 
 <img width="1996" height="1173" alt="image" src="https://github.com/user-attachments/assets/d8fda6cc-4b88-494f-b089-5d509a961072" />
 <img width="2462" height="1323" alt="image" src="https://github.com/user-attachments/assets/bb2d5f95-1909-4cd8-8aed-919bbde22b74" />
