@@ -11,6 +11,8 @@ AIM-120 Amrram은 능동 미사일로 반능동 미사일인 스패로우와 얼
 
 > 암람은 2,3,7,8번 파일런에 2개씩 4,6번 파일런에 1개씩 총 10발의 암람이 장착이 가능하다
 
+---
+
 <img width="1852" height="1264" alt="image" src="https://github.com/user-attachments/assets/ebf23a2e-8401-4d7d-9df6-7dd862944d1d" />
 
 > A/A모드, 마스터암 ON, 암람 선택(L Shift + D)
@@ -26,28 +28,40 @@ AIM-120 Amrram은 능동 미사일로 반능동 미사일인 스패로우와 얼
 
 > 현재 호넷 공대공 레이더에는 아무것도 감지되어있지 않은 상태다
 
+---
+
 <img width="834" height="608" alt="스크린샷 2025-12-22 172035" src="https://github.com/user-attachments/assets/155b8f95-5a13-4bb7-bcf4-5228753b2700" />
 <img width="860" height="550" alt="스크린샷 2025-12-22 172041" src="https://github.com/user-attachments/assets/c3a53248-04aa-405e-a46a-e17d58dcaee6" />
 
 > 하지만 여기서 데이터링크(1)를 누르고 ON(2) 그러면 336.0이라는 숫자가 UFC에 뜰것이고 다시 데이터링크(3)를 누르고 ON(4)을 누르면 127이라는 숫자가 뜨는데 총 2개의 데이터링크 시스템을 킨것이다 이러면 데이터링크가 켜진것이다
+
+---
 
 <img width="490" height="421" alt="image" src="https://github.com/user-attachments/assets/ec154858-016f-4dd9-94fd-2bd33f657dd8" />
 <img width="570" height="468" alt="스크린샷 2025-12-22 172327" src="https://github.com/user-attachments/assets/5dba4021-916e-4d13-abe4-999a4c3a6966" />
 
 > 데이터링크를 킨 이후 SA페이지와 공대공 레이더를 보게되면 아군은 동그란 원, 적은 마름모에 빨간색으로 표시되며 각 도형에 달려있는 짧은 막대기는 해당 기체가 향하는 방향이다
 
+---
+
 <img width="495" height="449" alt="image" src="https://github.com/user-attachments/assets/ea3209b2-8277-476d-8150-16d1fc1c95bb" />
 
 > 이 상태로 공대공 레이더에서 레이더 커서를 이용하여 적 빨간 마름모 위에 커서를 올리면 적 정보가 뜬다(마하0.7에 1만4천피트), 근데 보면 내 레이더는 지금 고도 5만 5천피트에서 4만 7천피트를 보고 있어서 원래라면 락온은 커녕 레이더에 보이지도 않는 상태일태지만
+
+---
 
 <img width="1938" height="1260" alt="image" src="https://github.com/user-attachments/assets/791701d3-b000-44e1-a0e0-f37fb9308ea3" />
 
 > 그저 레이더커서를 빨간 마름모로 표시된 적 위에 두고 TDC Depress키를 눌렀을 뿐인데 조기경보기가 보내준 적 정보를 토대로 적을 락온한 상태가 된다, 하지만 내 화면에는 적을 내 레이더로 락온한것 처럼 보이지만 조기경보기가 보내준 정보를 토대로 미사일을 발사하는 것이기 때문에 적 RWR에는 아무런 경보가 뜨지 않는다
 
+---
+
 <img width="866" height="660" alt="image" src="https://github.com/user-attachments/assets/d606ecf2-a9ff-458b-846c-afa41c597c2a" />
 
 > 이후 HUD에 스패로우 사용 때와 똑같이 적 정보 및 사거리 표시계가 뜨게된다 적과의 거리를 나타내는 막대기가 최대사거리표시계 혹은 회피불가사거리 표시계 내에 있을 경우 사격하면 된다, 하지만 적과의 거리를 나타내는 12.4마일 숫자 아래 12ACT라는 숫자가 있는것을 확인 할 수 있는데
 이는 암람이 지금 발사되면 몇초 뒤쯤 자체 레이더가 켜지는지 나타내는 숫자이며 0ACT가 되면 이후 숫자+TTG가 표시되는데 이는 자체 유도가 시작되고 적과 명중하기까지 남은 시간을 나타낸다(하지만 절대적인 시간은 아니다 상대가 기수를 틀면 거리 계산이 바뀌어 0TTG가 되었음에도 명중이 안되고 아직도 따라가고있는 중일 가능성이 높다)
+
+---
 
 <img width="1060" height="759" alt="image" src="https://github.com/user-attachments/assets/eb2db439-d4de-41c7-9df5-3e3ad04d9b01" />
 <img width="958" height="776" alt="image" src="https://github.com/user-attachments/assets/5a9e5634-27ba-4316-b1fb-f503fe6ac69d" />
@@ -62,6 +76,8 @@ AIM-120 Amrram은 능동 미사일로 반능동 미사일인 스패로우와 얼
 <img width="2218" height="1277" alt="image" src="https://github.com/user-attachments/assets/cece13d5-d98e-4a93-9f8d-97cee0c5f8c4" />
 
 > 레이더로 락온되지 않으면 HUD에 커다란 점선 원이 생기는데 이 안에 적을 넣고 사격하면 10마일 이내의 적을 암람이 자체 레이더로 추적해 박살낸다
+
+---
 
 <img width="1170" height="1028" alt="image" src="https://github.com/user-attachments/assets/824216f0-9ea4-46e5-9923-2d8cdee07c29" />
 <img width="545" height="513" alt="image" src="https://github.com/user-attachments/assets/956c7807-284e-417a-9e82-f8997935c01f" />
