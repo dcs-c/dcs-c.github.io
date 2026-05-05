@@ -11,6 +11,8 @@
 
 > 사이드와인더는 양 끝 윙팁(1,9번 파일런)에 1개씩 2,8번 파일런에 2개씩 최대 6개의 사이드와인더를 장착이 가능하지만 호넷 같은 현대에 이르는 전투기는 도그파이트까지 가는 경우가 드물어 윙팁에 1개씩 총 2개를 위주로 가져간다, 애초에 사이드와인더 6발이나 필요한 도그파이트 상황까지 가는것이 파일럿의 잘못이다
 
+---
+
 <img width="1963" height="1246" alt="image" src="https://github.com/user-attachments/assets/5f6686ee-4bb6-47ee-9b81-d9ad3929bd48" />
 
 > A/A모드, 마스터암 ON, 사이드와인더 선택(L Shift + S)
@@ -21,10 +23,14 @@
 
 > 사이드와인더를 선택하게 되면 HUD에 작은 원이 생기는데 이게 사이드와인더의 시커다 여기에 적기를 두면 사이드와인더가 적을 락온하게 되는데 이때 그라울링 사운드가 치지직거리는 소리에서 적이 시커 주변에 감지되면 띠띠띡 거리는 소리로 변하고 시커가 적을 락온하게 되면 삐이익 같은 고주파음으로 바뀐다 하지만 락온이 10마일거리에서도 되는데(보이기만 한다면) 이에 속아서는 안된다 사이드와인더는 적과 1~2마일거리에서 사격해야 확실하게 맞는다 10마일 정도의 거리면 애초에 중거리 미사일로 사격해야한다
 
+---
+
 <img width="912" height="680" alt="image" src="https://github.com/user-attachments/assets/00a886e5-1ef1-4c10-afb2-37aedaeb42f4" />
 <img width="612" height="553" alt="image" src="https://github.com/user-attachments/assets/98ec8b13-f929-417f-b89b-fd227a57d027" />
 
 > HUD 사이드와인더 시커 원에 적기를 두면 삐이이익 소리의 고주파음과 함께 락온이 되고 이상태로 언케이지(기본설정 C키)를 꾹 누르면 사이드와인더의 시커 고정이 풀리며 일정 범위내의 적을 시커가 자동으로 따라간다 이후 스틱의 트리거(기본설정 Space bar)를 누르면 발사된다
+
+---
 
 <img width="2112" height="1307" alt="image" src="https://github.com/user-attachments/assets/e307eae6-cb69-4643-aafa-b36729e320be" />
 
@@ -36,14 +42,20 @@
 
 > 사이드 와인더를 준비한다
 
+---
+
 <img width="418" height="454" alt="image" src="https://github.com/user-attachments/assets/284418df-ee39-4ac1-9c1a-b0bc00da9ebb" />
 <img width="1451" height="1099" alt="image" src="https://github.com/user-attachments/assets/68e42157-0f79-437e-8f20-e751be5f0779" />
 
 > HMD 노브를 BRT까지 돌려 HMD를 활성화 해준다, HMD를 키고 측면을 바라보게되면 HUD와 유사한 정보가 표시됨과 동시에 중앙에 원이 따라 다니는데 이게 사이드와인더 시커다 HMD와 연동하여 시커를 파일럿이 바라보는곳과 같은곳을 바라보도록 연동한것이다
 
+---
+
 <img width="1686" height="1145" alt="image" src="https://github.com/user-attachments/assets/63645a2f-7e0e-40d6-8423-ee905298c344" />
 
 > 이후 머리를 돌려 적을 찾아 사이드와인더 열상 시커를 적에게 갖다 대면 그라울링 소리가 삐이이익 소리의 고주파와 함꼐 락온이 되며 이후 바로 사격하면 된다 
+
+---
 
 <img width="1479" height="1015" alt="image" src="https://github.com/user-attachments/assets/4aa821dc-bad9-45e3-b3dd-a9e8cd228417" />
 <img width="1522" height="953" alt="image" src="https://github.com/user-attachments/assets/173bbb3c-6bd0-4b51-8ef7-ad64d02b3666" />
@@ -67,28 +79,40 @@
 
 > 우선 SCS를 위로 밀어 HUD를 SOI 시킨다 그럼 사이드와인더 시커처럼 점선으로 된 원이 HUD에 표시되는데 이게 ACM모드 상태이며 점선 원은 레이더의 탐색 범위이다
 
+---
+
 <img width="1026" height="734" alt="image" src="https://github.com/user-attachments/assets/29e32e52-4d72-496a-a680-3e14fc6ee674" />
 <img width="1834" height="1309" alt="image" src="https://github.com/user-attachments/assets/4a33926e-eb82-444d-b446-f57a4649683a" />
 
 > 이 점선 원에 시각으로 보이는 적을 갖다 대면 레이더가 5마일 이내의 적을 락온한다
+
+---
 
 <img width="831" height="631" alt="image" src="https://github.com/user-attachments/assets/9461ea03-d011-4ff7-b6b2-7ef9862230cf" />
 <img width="2526" height="1174" alt="image" src="https://github.com/user-attachments/assets/7ba2a431-50b5-4bd0-92a6-9f44b4a45df2" />
 
 > 하지만 이상태에서 SCS를 한번 더 위로 SOI 시키면 HUD에 HACQ라는 글자가 표시되며 HMD와 연동하여 레이더의 조사 각도를 조종할 수 있게된다
 
+---
+
 <img width="1745" height="1234" alt="image" src="https://github.com/user-attachments/assets/54e1cbc6-581a-4826-8af1-7a820dbbd53a" />
 
 > 하지만 여기서 또 SCS를 위로 꾸우욱 눌렀다 때서 SOI시키면 LHAQ라는 글자로 바뀌게 되며 5마일 이였던 조사 거리를 40마일까지 늘릴 수 있다
+
+---
 
 <img width="1985" height="1340" alt="image" src="https://github.com/user-attachments/assets/9a7e912b-dc5f-498a-855b-343581cc7f6f" />
 
 > HUD가 SOI 되어 있는 상태에서 왼쪽으로 SCS를 눌러 SOI 시키면 WACQ로 글자가 바뀌며 일정고도에서 좌우로 넓게 적을 탐색하는 모드로 변경된다, 이는 적의 고도를 얼추 아는데 방향을 모를 경우 사용된다
 
+---
+
 <img width="1406" height="1016" alt="image" src="https://github.com/user-attachments/assets/e83d7e15-39a5-4801-93f1-14401b44302a" />
 <img width="1836" height="1236" alt="image" src="https://github.com/user-attachments/assets/4db523a1-67ac-4b8e-8e70-a85cfc0c3b2c" />
 
 > HUD가 SOI 되어 있는 상태에서 아래쪽으로 SCS를 눌러 SOI 시키면 HUD에 새로로 긴 두개의 점선이 나타나며 항공기를 기준으로 세로방향으로 길게 탐색한다, 이는 방위각 기준이 아닌 기체 자체 기준이라 기체를 기울이면 그에 맞춰 두개의 점선도 같이 기운다, 그렇기에 적과 기수를 당기며 싸우는 도그파이트에서 레이더 락온할때 자주 사용된다
+
+---
 
 이러한 여러 ACM모드로 도그파이트에서 적을 빠르게 락온이 가능해진다
 
