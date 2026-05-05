@@ -41,14 +41,20 @@ AN/ASQ-228 ATFLIR POD : 라이트닝 포드가 다기종 호환 포드라면 ATF
 
 > 우선 4번 파일런에 ALFLIR 포드를 장착 후 이륙한다
 
+---
+
 <img width="1273" height="1034" alt="스크린샷 2025-11-21 141522" src="https://github.com/user-attachments/assets/31f9d3c0-b487-45d6-85b8-7a00ed25f52c" />
 
 > 일단 이륙 전이든 이륙 후든 우측 아래 콕핏에서 FLIR 스위치를 ON까지 올려준다
 >> - ON 한다고 바로 켜지는게 아닌 2분정도의 준비 시간이 있다 그래서 가능하면 이륙전 부터 활성화 해주는게 좋다
 
+---
+
 <img width="474" height="484" alt="스크린샷 2025-11-21 141733" src="https://github.com/user-attachments/assets/bc7c5d22-7161-4aad-b7db-f382add783d4" />
 
 > FLIR 스위치를 키면 MFD에서 무장을 확인 할 수 있던 스토어 위에 FLIR라는 버튼이 추가되며 눌러주고 준비 시간 이후에 비로소 타겟팅 포드 화면을 볼 수 있다
+
+---
 
 <img width="438" height="453" alt="image" src="https://github.com/user-attachments/assets/b1105e20-e346-4c54-b3d8-c06d2d3da227" />
 
@@ -62,9 +68,13 @@ AN/ASQ-228 ATFLIR POD : 라이트닝 포드가 다기종 호환 포드라면 ATF
 
 >> - 이때 VVSLV 버튼을 누르면 렌즈를 꺼낼 수 있다, VVSLV 버튼은 공식적으로 렌즈를 꺼내는 버튼이 아닌 타겟팅포드의 시점을 FPM에 고정하는 역할을 하는 버튼이다 렌즈를 꺼내는 방법은 VVSLV 버튼을 누르는것 외에 이륙해서 타겟팅 포드를 활성화 후 미리 지정해놓은 작전 구역의 웨이포인트를 타겟팅포인트로 지정하면 자동으로 렌즈가 꺼내지고 이후 지정해놓은 타겟팅 포인트로 시점이 고정된다
 
+---
+
 <img width="468" height="456" alt="image" src="https://github.com/user-attachments/assets/6c76d6fa-f97d-4c98-a5ba-55180f3ad702" />
 
 > VVSLV 버튼으로 렌즈를 꺼냈다면 다시 VVSLV 버튼을 눌러 고정을 풀어주고 타겟팅포드 화면이 출력되고 있는 MFD로 SOI 시키게 되면 TDC로 타겟팅 포드의 화면을 움직일 수 있게된다 
+
+---
 
 <img width="443" height="440" alt="스크린샷 2025-11-21 142718" src="https://github.com/user-attachments/assets/f2e0ed0a-7657-4404-bf3d-2dcba11b9b0f" />
 
@@ -94,20 +104,26 @@ AN/ASQ-228 ATFLIR POD : 라이트닝 포드가 다기종 호환 포드라면 ATF
 
 > 10번과 11번 노브는 기본적인 타겟팅포드 화면 설정이 적을 찾는게 힘들 경우 밝기 및 대비를 조절해 좀 더 수월하게 찾을 수 있다
 
+---
+
 <img width="1935" height="1241" alt="image" src="https://github.com/user-attachments/assets/f80caa18-23bf-4520-bcc6-7347ca30c19a" />
 
 > 타겟팅 포드 화면을 켠 이후에도 웨이포인트에 좌표를 입력해서 타겟팅포인트를 생성 후 포드를 해당 부분쪽으로 보게 설정할 수 있다
+
+---
 
 <img width="421" height="415" alt="image" src="https://github.com/user-attachments/assets/1b75517d-527b-4b1b-af6f-5684e047f0f4" />
 <img width="375" height="382" alt="image" src="https://github.com/user-attachments/assets/cbc0f853-1c33-41d3-bf9d-4124af59ed2f" />
 
 > 추가로 조준자를 바꿀 수 있다, 만약 우측 MFD에 타겟팅포드 화면이 설정되어있는 경우 SCS를 우측으로 눌러 SOI 시킨 후 한번 더 우측으로 SCS를 누르면 조준자가 바뀐다, 해당 조준자는 고정된 타겟 혹은 위치 좌표를 추출할때 자주 사용되는데 조준자가 가운데에 정말 작은 점이기 때문에 적의 위치를 좀 더 정밀하게 추출이 가능하다, 해당 조준자로 적의 위치로 갖다 댄 다음 TDC depress 버튼을 누르면 타겟팅 포인트를 생성하며 조준중인 곳의 좌표를 장착중인 jsow나 jdam등 좌표를 지정해서 날아가는 무장에 좌표를 다이렉트로 입력이 가능하다
 
+---
+
 <img width="543" height="531" alt="image" src="https://github.com/user-attachments/assets/2b8b4cb3-9156-4b9a-8e8c-9c9455335944" />
 
 > 앞서 말한 조준자 외에도 한번더 우측으로 SOI를 시켜주면 움직이는 대상을 지속적으로 따라가는 조준자를 사용할 수 있다 추후 레이저 유도 폭탄으로 움직이는 대상을 추척해 지속적으로 유도 시킬때 쓰는 조준자다
 
-
+---
 
 ## 추가 잡다한 정보
 
