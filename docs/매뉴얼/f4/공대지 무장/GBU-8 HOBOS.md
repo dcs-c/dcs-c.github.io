@@ -40,7 +40,7 @@ GBU-8 HOBOS는 1,2,8,9번 파일런에 장착이 가능하다
 
 <img width="1512" height="1348" alt="image" src="https://github.com/user-attachments/assets/0dace4c8-110d-440e-82b4-7bd90f6e659f" />
 
-HUD 레티클을 적에게 가져다 대면 DSCG에 출력되는 월아이의 시커도 얼추 비슷한곳을 바라보게된다 
+HUD 레티클을 적에게 가져다 대면 DSCG에 출력되는 HOBOS의 시커도 얼추 비슷한곳을 바라보게된다 
 
 이후 화면의 두 직선이 교차 하는 부분에 적을 두고 스틱 세컨드 트리거 ( 기본 설정 : Space )를 땡기고 있으면 락온이 되며 락온이 되면 화면에 HOBOS의 시커가 움직일 수 있는 반경을 보여주는 검은 사각형이 표시된다
 
