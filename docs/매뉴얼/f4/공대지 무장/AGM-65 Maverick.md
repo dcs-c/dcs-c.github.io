@@ -49,6 +49,8 @@ F16, A10에도 달리는 매버릭 미사일은 대전차미사일로 F4E 팬텀
 <img width="1758" height="1361" alt="image" src="https://github.com/user-attachments/assets/87c9cbd2-6ed6-418f-a8d6-66dbd1f5d52b" />
 
 이후 스틱 세컨드 트리거 ( 기본 설정 : SPACE )키를 눌러주면 DSCG 화면에 매버릭 시커 화면이 송출 된다
+> <img width="452" height="318" alt="5" src="https://github.com/user-attachments/assets/dbd1482b-be24-4396-93ee-ebc5d483363c" />
+>> 혹은 WSO석에서 해당 버튼을 눌러주면 DSCG 화면에 매버릭 시커 화면이 송출된다 ( AI WSO 인 경우 트리거를 땡기는 것으로 화면 전환 명령을 대신 한것 )
 
 ---
 
@@ -75,3 +77,17 @@ HUD 레티클을 타겟이 있는곳을 향하게 두면 매버릭 시커 화면
 <img width="2559" height="1317" alt="image" src="https://github.com/user-attachments/assets/02b34147-bf6b-4204-af46-1e5d4e3087a8" />
 
 ## 사용법 (With Human WSO)
+
+사전 설정 및 사격까지 전부 파일럿석에서 가능하지만 보통 조준 후 사격은 보통 WSO가 한다
+
+---
+
+<img width="1477" height="1031" alt="image" src="https://github.com/user-attachments/assets/7466ec36-117d-436c-8263-c7a66c7954e1" />
+
+우선 파일럿석에서의 사전 준비가 완료되어 적을 락온해서 사격을 해야 하는 시점 부터 보면, Antenna hand control trigger haft action키를 누른 상태로 Antenna hand control slew 키를 이용하여 매버릭 시커를 조종 할 수 있다
+
+---
+
+<img width="654" height="547" alt="image" src="https://github.com/user-attachments/assets/1fe4bfeb-3615-408e-9033-380c1f5e02c8" />
+
+적에게 시커를 가져다 댄 다음 Antenna hand control trigger full action키를 눌러 락온한다 이후 파일럿이든 WSO든 Weapon release 버튼을 꾹 눌러주면 발사된다
