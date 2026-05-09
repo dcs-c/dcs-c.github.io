@@ -4,6 +4,8 @@
 
 AGM-62 Walleye는 TV Guide 폭탄으로 TV 시커로 잡힌 적을 향해 낙하 하는 유도 폭탄이다
 
+사용 절차는 GBU-8 HOBOS 폭탄과 동일하다
+
 ## 사용법
 
 <img width="1243" height="770" alt="image" src="https://github.com/user-attachments/assets/f20caedb-7ddb-4d0e-b6f0-bd07ad722a34" />
