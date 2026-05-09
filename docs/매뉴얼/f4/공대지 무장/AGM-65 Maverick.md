@@ -66,7 +66,7 @@ HUD 레티클을 타겟이 있는곳을 향하게 두면 매버릭 시커 화면
 
 <img width="1527" height="1354" alt="image" src="https://github.com/user-attachments/assets/8c69d595-d34a-41b1-9afe-0394dea615ff" />
 
-락온 후 Weapon release 버튼을 꾹 눌러주면 발사된다, 하지만 다른 4세대 기체들 처럼 최대 및 최소 사거리가 표시되지 않음 으로 락온이 된 이후 좀 더 다가가서 사격할 것을 권장한다
+락온 후 Weapon release 버튼을 꾹 눌러주면 발사된다, 하지만 4세대 기체들 처럼 최대 및 최소 사거리가 표시되지 않음 으로 락온이 된 이후 좀 더 다가가서 사격할 것을 권장한다
 
 ---
 
