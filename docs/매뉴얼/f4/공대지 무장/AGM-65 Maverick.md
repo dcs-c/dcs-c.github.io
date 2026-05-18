@@ -50,7 +50,7 @@ F16, A10에도 달리는 매버릭 미사일은 대전차미사일로 F4E 팬텀
 
 이후 스틱 세컨드 트리거 ( 기본 설정 : SPACE )키를 눌러주면 DSCG 화면에 매버릭 시커 화면이 송출 된다
 > <img width="452" height="318" alt="5" src="https://github.com/user-attachments/assets/dbd1482b-be24-4396-93ee-ebc5d483363c" />
->> 혹은 WSO석에서 해당 버튼을 눌러주면 DSCG 화면에 매버릭 시커 화면이 송출된다 ( AI WSO 인 경우 트리거를 땡기는 것으로 화면 전환 명령을 대신 한것 )
+>> 혹은 WSO석에서 해당 버튼을 눌러주면 DSCG 화면에 매버릭 시커 화면이 송출된다
 
 ---
 
