@@ -52,6 +52,8 @@ F16, A10에도 달리는 매버릭 미사일은 대전차미사일로 F4E 팬텀
 > <img width="452" height="318" alt="5" src="https://github.com/user-attachments/assets/dbd1482b-be24-4396-93ee-ebc5d483363c" />
 >> 혹은 WSO석에서 해당 버튼을 눌러주면 DSCG 화면에 매버릭 시커 화면이 송출된다
 
+> 매버릭 시커 화면 송출 후 시커가 가운데로 정렬되어 있는 상태로 세컨드 트리거를 한번 더 당기면 확대도 가능하다
+
 ---
 
 <img width="1740" height="1365" alt="image" src="https://github.com/user-attachments/assets/e82facc3-b06a-4aa8-8d4d-36df36aa5f66" />
