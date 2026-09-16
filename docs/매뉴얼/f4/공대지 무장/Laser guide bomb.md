@@ -75,9 +75,9 @@ GBU-12 : 1,2,8,9 [ 2번과 8번 파일런의 경우엔 2개씩 장착 할 수 �
 
 ---
 
--camera -321.620978 1.676206 632.141271 -cameradir 0.722000 -0.171057 0.67041<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/e0ea6e40-5ba3-45ea-a87b-8c6784f58330" />
--camera -319.984705 1.682714 633.558908 -cameradir 0.846597 0.486185 0.21655<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/08fe742e-2729-48d9-8748-331f09719e27" />
--camera -317.831097 0.124753 635.400245 -cameradir 0.382876 -0.898166 0.21611<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/8114f9c3-19ef-456e-817a-61d10b026d32" />
--camera -314.826954 2.006245 637.088899 -cameradir 0.721915 -0.479794 0.49863<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/959bb621-4246-411a-9fd9-8ec67d9e6c65" />
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/e0ea6e40-5ba3-45ea-a87b-8c6784f58330" />
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/08fe742e-2729-48d9-8748-331f09719e27" />
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/8114f9c3-19ef-456e-817a-61d10b026d32" />
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/959bb621-4246-411a-9fd9-8ec67d9e6c65" />
 
 ## 사용법 With Human
