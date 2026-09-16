@@ -53,6 +53,8 @@ GBU-12 : 1,2,8,9 [ 2번과 8번 파일런의 경우엔 2개씩 장착 할 수 �
 투하 전 R ctrl + B 키를 눌러 밤 테이블을 열어주고 TGT FIND 및 투하 할 폭탄의 종류와 투하 당시 속도 및 고도, 타겟 고도, 다이브 각도등을 작성 후 Tell jester and close를 눌러 밤 테이블을 닫아준다
 > 사실 밤테이블을 작성하지 않아도 투하 및 명중 시킬 수 있다
 
+---
+
 <img width="1260" height="1356" alt="image" src="https://github.com/user-attachments/assets/26512e67-4b2e-467e-9048-8563a232d072" />
 
 타겟이 있는 곳에 HUD 레티클을 두게 되면 포드도 얼추 비슷한 곳을 바라보게 된다 
