@@ -28,6 +28,7 @@ BLU-107 Durandal은 활주로 파괴를 목적으로 사용하는 폭탄으로 �
 
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/2779febc-b66d-4c2f-97c9-02d19afe37f7" />
 <img width="1167" height="987" alt="image" src="https://github.com/user-attachments/assets/c99b17d1-cc84-4474-8c9f-907f4552ed87" />
+<img width="1525" height="1124" alt="image" src="https://github.com/user-attachments/assets/0c641501-b013-4985-9242-84a21ec2b4be" />
 <img width="1086" height="842" alt="image" src="https://github.com/user-attachments/assets/c97ae125-17f1-4232-b28d-f6d5d91321fd" />
 
 이후 활주로와 정렬 후 적정 투하 고도 500피트에서 수평비행 하다가 레티클이 활주로의 3분의 1지점에 닿을 때 무장 발사 버튼을 눌러준다
