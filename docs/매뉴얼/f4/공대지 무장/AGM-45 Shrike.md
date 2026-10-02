@@ -54,3 +54,22 @@ SA-2를 타겟으로 할 것이기에 SA-2 추적이 가능한 키트중 MK50을
 
 ---
 
+<img width="1316" height="764" alt="5" src="https://github.com/user-attachments/assets/539d809e-73b7-4a38-87bf-00190cc6108d" />
+
+이후 기수가 적 방공을 향하도록 날아가다 보면 사거리 내로 진입시 착륙할때 쓰던 AOA 인덱서에 불이 들어온다 이때 무장 발사 버튼을 누르며 인덱서에 표시되는 정보에 따라 기체를 기동해준다
+
+<img width="2560" height="1440" alt="Screen_261003_014834" src="https://github.com/user-attachments/assets/f629ccfb-db50-4584-ae22-2ba79ec7c1a1" />
+> 기수 상승
+<img width="2560" height="1440" alt="Screen_261003_015611" src="https://github.com/user-attachments/assets/e617d28e-2db9-41ec-a981-d8331403165a" />
+> 현재 상태 유지
+<img width="2560" height="1440" alt="Screen_261003_015615" src="https://github.com/user-attachments/assets/04d2395e-c9c5-44d9-a2c4-aec8f77b6bca" />
+> 기수 하강
+
+---
+
+<img width="2560" height="1440" alt="Screen_261003_015654" src="https://github.com/user-attachments/assets/f9ea1d1f-e73f-4869-a676-4d9c24f6d7b4" />
+<img width="2560" height="1440" alt="Screen_261003_015934" src="https://github.com/user-attachments/assets/c4faa4cc-1deb-46fb-b0c5-f59b88fb7698" />
+
+무장 투하 버튼을 누르며 인덱서에 맞춰 기체를 조종해주면 적정타이밍에 슈라이크들이 연달아 발사된다
+
+사용해보면 알겠지만 종말속도가 느리고 자세도 불안정해서 사실 쉽게 요격되기도 한다 그렇기에 명중률을 높이기 위해 한 번에 발사하는게 좋다
