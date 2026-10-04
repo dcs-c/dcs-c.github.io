@@ -14,7 +14,7 @@ F16과 F/A-18 같은 4세대기도 사용이 가능하며 오히려 먼저 사�
 
 ---
 
-<img width="1002" height="1029" alt="2" src="https://github.com/user-attachments/assets/bd0e5700-1378-4ebc-9f6d-6c1c93163dcf" />
+<img width="1514" height="1440" alt="1" src="https://github.com/user-attachments/assets/0bee5359-4fa1-4e4e-a27d-74b876d2d3c8" />
 
 1. 신관을 켜준다
 2. 사용할 무유도 폭탄이 달린 파일런을 선택해준다
