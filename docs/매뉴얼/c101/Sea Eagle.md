@@ -1,4 +1,4 @@
-# Sea Eagle
+<img width="1259" height="949" alt="image" src="https://github.com/user-attachments/assets/abcc7ff0-b955-48f2-99c7-937d53c88a2d" /># Sea Eagle
 
 ## 개요
 
@@ -67,4 +67,9 @@ C101CC의 TASK를 anti-ship strike로 설정한다
 
 <img width="1706" height="1021" alt="image" src="https://github.com/user-attachments/assets/9a1f65c9-5fc3-4db8-b4f7-320fa5790711" />
 <img width="1451" height="885" alt="image" src="https://github.com/user-attachments/assets/1422c38d-c8f0-4a00-bed4-239b3c4952de" />
+<img width="1048" height="859" alt="image" src="https://github.com/user-attachments/assets/52ef4cec-1106-49f1-9218-5c2036ad9016" />
+<img width="1259" height="949" alt="image" src="https://github.com/user-attachments/assets/d52504e5-cf89-4a41-8991-c84d8e7e22fc" />
+<img width="1340" height="1039" alt="image" src="https://github.com/user-attachments/assets/20a708bd-2c49-43fa-abbf-7686ec015229" />
+<img width="1303" height="1143" alt="image" src="https://github.com/user-attachments/assets/9eac793f-a8c1-40af-9bc9-d4b6265d3b1e" />
 
+이와 같이 미션에디터에서 따로 설정해주지 않으면 10마일 갔다가 표적도 없는데 그냥 로프트 했다가 꼴아박는다 그렇기에 혹여나 이 대함 미사일 써보겠다고 C101CC를 사는 일은 없도록 하자(...)
