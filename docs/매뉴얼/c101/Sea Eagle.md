@@ -49,7 +49,7 @@ C101CC의 TASK를 anti-ship strike로 설정한다
 
 <img width="778" height="491" alt="image" src="https://github.com/user-attachments/assets/dfb724fc-2a35-4912-85af-a415f0e91135" />
 
-ACTION을 ATTACK UNIT, GROUP과 UNIT을 타격할 함선으로 설정해준다
+기존에 있던 Anti-ship-a-ref를 지우고 새로 생성한 TASK에서 ACTION을 ATTACK UNIT, GROUP과 UNIT을 타격할 함선으로 설정해준다
 
 ---
 
