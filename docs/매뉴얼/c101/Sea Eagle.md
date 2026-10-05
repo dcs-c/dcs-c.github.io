@@ -35,21 +35,16 @@ C101CC의 TASK를 anti-ship strike로 설정한다
 
 ---
 
-<img width="386" height="880" alt="1" src="https://github.com/user-attachments/assets/e957c809-3e1b-449a-9ea1-119a2475b271" />
+<img width="778" height="518" alt="1" src="https://github.com/user-attachments/assets/c5ad245a-fe15-4604-b3be-cfa1b105b487" />
 
-이후 하단에 ADVANCED (WAYPOINT ACTIONS)을 눌러주면 하단에 추가 창이 뜨게된다
+이후 다음과 같이 설정한다
 
----
+1. 웨이포인트를 0번으로 설정한다
+2. ADVANCED를 눌러 아래로 추가 창을 열어준다
+3. ADD 버튼을 눌러 추가 TASK를 생성한다
+4. 이후 ACTION을 ATTACK UNIT으로, GROUP과 UNIT을 타겟으로 삼은 함선으로 설정해준다
 
-<img width="781" height="511" alt="2" src="https://github.com/user-attachments/assets/321baed3-5c07-4a69-8efd-b379695eb984" />
-
-하단에 추가 버튼을 눌러 추가 TASK를 만들어준다
-
----
-
-<img width="778" height="521" alt="3" src="https://github.com/user-attachments/assets/8d2e7ea5-958d-4da0-9c8f-44ee92c41285" />
-
-ACTION을 ATTACK UNIT, GROUP과 UNIT을 타격할 함선으로 설정해준다
+저장하고 인게임으로 들어간다
 
 ---
 
