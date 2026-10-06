@@ -39,6 +39,8 @@ HUD 레티클 값을 설정하면 레티클이 너무 내려가서 잘 안보이
 <img width="1231" height="1063" alt="image" src="https://github.com/user-attachments/assets/2471a0c3-2e00-4236-8d35-306ca05b4350" />
 <img width="1493" height="1289" alt="image" src="https://github.com/user-attachments/assets/4c718f2b-b024-4995-8a82-0ce8d6292a33" />
 
+밤 테이블에 작성한 제원대로 적을 향해 다이브 하다가 투하 고도에 도달시 무장 투하 버튼을 눌러주며 상승 해주면 된다 
+
 가장 기본적인 정밀 타격방법이긴 하나 제원이 조금만 틀어져도 오차범위가 크게 늘어난다 그래서 레이더를 이용해 투하 타이밍을 보조해주는 다이브 토스 모드를 사용 할 수 있으면 사용 하는게 좋다
 
 ## 사용법 - 다이브 토스 모드 With AI
