@@ -1,4 +1,4 @@
-<img width="1259" height="949" alt="image" src="https://github.com/user-attachments/assets/abcc7ff0-b955-48f2-99c7-937d53c88a2d" /># Sea Eagle
+# Sea Eagle
 
 ## 개요
 
