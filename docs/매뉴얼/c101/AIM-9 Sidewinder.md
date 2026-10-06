@@ -1,4 +1,4 @@
-# AIM-9 Sidewinder.md
+# AIM-9 Sidewinder
 
 ## 개요
 
