@@ -75,3 +75,5 @@ HUD 레티클 값을 설정하면 레티클이 너무 내려가서 잘 안보이
 <img width="1940" height="1358" alt="image" src="https://github.com/user-attachments/assets/8e037b6a-7fa4-4349-9e0b-bf97ff66ee65" />
 <img width="1106" height="939" alt="image" src="https://github.com/user-attachments/assets/dc27e47b-0b8a-4110-9fec-72116d062d44" />
 <img width="960" height="684" alt="image" src="https://github.com/user-attachments/assets/095c684f-fb35-442d-9a79-d158b3ef09b4" />
+
+이후 밤테이블에 작성한 제원대로 낙하하다가 목표 투하고도가 되기전에 무장 투하 버튼을 누르면 삐- 소리가 들리고 목표 투하고도가 도달했을때 스틱을 당겨 주면 폭탄이 투하된다
